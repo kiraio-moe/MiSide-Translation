@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+Hi, I'm Mita!
+What's your name?
+Nice to meet you, [player]!
+Um... [player],
+I sort of rushed off earlier, and now this place is a mess...
+Could you help me tidy up a bit?
+Woah..
+Thank you so much!
+
+[Player], my stomach's growling...
+I'm so hungry...
+Do you think you could help me get the ingredients for some chicken soup?
+Yay! You got everything!
+How about we cook it together?
+
+
+I was thinking of buying a portable TV today—
+a small one with an antenna. Perfect for walks, don't you think?
+By the way, you can play games to earn money.
+Oh! Did you know you can play games to earn money?
+
+Yay! You did it! You have enough to buy me that portable TV!
+That's the one! Small, portable, and cheap—just what I wanted.
+Thank you!
+
+Hi, [player]! You're such a big help, honestly.
+But, uh... that TV? It was cool and all, but it broke already.
+Anyway, could you help me move this wardrobe?
+It's super heavy... >.<
+Thank you so much, sweetie! <3
+
+Oh, [player]! It's only been a day, but I've missed you so much!
+I wish you could visit me more often.
+
+Is this for me?
+Thank you so much, really!
+
+Hi, [player]! I've been thinking...
+I wish we could meet in person.
+It's so frustrating that I can't.
+You're always helping me, being so kind every day...
+I wish I could do something for you too.
+...
+Oh, I've got an idea!
+Now we're together.
+Put the phone down.
+
+
+// T-shirt on the bed
+What are you doing here on the bed?
+// Rubik's Cube
+Well, can't say I got much use out of it...
+I solved it once and never touched it again.
+Guess I figured I wouldn't be able to do it a second time?
+// Computer
+Let's see...
+Set up a list of tasks...
+Script character reactions,
+And maybe squeeze in some coding.
+// The airplane
+Built to soar!
+// Trash in the corner
+Ugh, always too busy to take out the trash...
+But I'll get to it this time, for sure!
+…Now, when exactly is cleaning day?
+// Photo of a cat on a watermelon
+She was the best…
+A cat, lounging on a watermelon.
+// Photo with a girl
+We don't look alike at all,
+my sister and I.
+She's always out and about,
+And I'm just stuck at home.
+// Photo with people
+Hmm...
+Office life really drilled its
+etiquette into us, didn't it?
+I still feel weirdly tied
+But
+will I ever
+see them again?
+…Wait, why did I even put this picture up?
+
+
+
+
+
+
+
+
+// Nope name
+...
+Oh, no.
+Oh no, that won't work.
+
+// Name Developer
+Are you sure you want to use the developer's name?
+I'm flattered, but…
+
+// Bad name
+I'd really prefer you didn't call yourself that.
+It's not cool at all.
+
+// Go restart
+Nope, that's not the way to do it. Let's start over.
+
+// Name with numbers
+Oh, so you're going with numbers? Where's the creativity in that?
+Oh well, it's your choice!
+
+// Name Mita
+Mita?
+Did you really name yourself after me?
+Or… is that your name too?
+No offense, but I think I should be the only Mita around here ♪
+
+// Day 10
+Oh, you're back!
+Hey, I lost my hairbrush…
+Could you help me find it?
+Try checking the bedside table first—I think I left it there.
+// Looked in the bedside table
+Hmm, no brush there...
+How about somewhere else?
+Just don't look in the oven, okay?
+I already checked there.
+// Looked into the stove
+Hey! I told you not to look in there!
+Turn around—I'll clean this up!
+...There, all done. Let's keep looking elsewhere.
+Oh, and, uh, forget what you just saw, okay?
+// Found a hairbrush
+You found it! Nice work!
+So, what should we do next?

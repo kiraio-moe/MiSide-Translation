@@ -1,0 +1,188 @@
+
+Hiya!
+Oops!
+Sorry,
+almost killed you there.
+Uhm...
+The fridge, I mean... the fridge almost killed you.
+I had nothing to do with it,
+I swear!
+Truly!
+
+Sure, I believe you!
+
+But seriously,
+this place is dangerous...
+especially for you.
+
+// After a while 1
+You're anything but a coward, huh!
+Watching you
+as you pass through
+these places is fun...
+Run, pumpkin, run!
+I'll catch up!
+Attaboy!
+Woah, this is fun!
+
+// After a while 2
+I saw you heading toward the train.
+That's the longest path
+between version...
+I wonder how you'll deal
+with those who live there
+in that fog.
+
+// Panties
+What do you think you're doing?
+Please...
+Don't look!
+Fool!
+You sillyhead...
+
+
+Uhm, okay...
+
+
+Break a leg!
+
+
+Who's there?
+I can sense you...
+Listen to me,
+you're a player,
+aren't you?
+Help me find...
+find a...
+Let me think...
+my mind's blank...
+What on earth is going on here?
+// Cry 1
+I wanted to forget everything once...
+I broke every mirrors,
+ruined the photos...
+but now...
+all I feel is regret.
+How stupid I was...
+Everybody makes mistakes, sure...
+But what do you do
+when the consequences are catastrophic?
+I wish I could just turn back time...
+// Cry 2
+They say time heals all wounds...
+But what is time?
+I don't believe in anything anymore...
+But if time can heal,
+or at least take me away,
+away from this world...
+Then, I beg you, please
+speed up time.
+So that it can kill me
+once and for all.
+// Cry 3
+She's loved...
+Have I loved too, once?
+But my love's different;
+her love is vibrant,
+despicable...
+burning...
+relentless...
+envious...
+furious...
+crazy...
+// Cry 4
+They called me emotional...
+You worry too much, Mita...
+You'll get through this, Mita...
+You're not alone, Mita...
+They said. But what's left?
+Sadness,
+despair...
+and fear.
+// Cry 5
+Useless...
+I can't remember...
+Nothing at all...
+Just the endless echoes...
+I can't cope with the fact
+that I'm trapped here...
+I've always been here,
+but why?
+I can't remember...
+Will it ever end?
+I don't know...
+
+// Mita get picture
+This is...
+a drawing...
+I remember now,
+thank you...
+But my face...
+I don't have a face...
+It's all HER.
+She took a piece of me...
+threw it away...
+She's strong...
+and clever.
+I have no right to stop you, player.
+Look in the wardrobe...
+
+
+Hey!
+You're in my way!
+Are you just going to stand there?
+Just get out of the way!
+Let me through!
+Just because you're big doesn't mean you're all-powerful!
+
+// HEY! STOP!
+Why are you following me!
+Piss off!
+
+
+
+
+// Funicular - radio voice
+Hold on now... Player?
+What are you doing here?
+
+Who's there?
+
+Another player.
+I'm Mitaphone.
+I'm sitting here controlling the cable cars.
+Do you realize
+you're heading to your doom right now?
+
+Perhaps,
+but it's the only path I have.
+
+Right you are.
+Press the button and get behind the cannon.
+
+The cannon?
+
+Uh-huh.
+You thought you were just gonna waltz right through?
+You've gotta clear this Monster-slap mini-game,
+so get ready to blast.
+
+// Funicular go
+Right, time to hit the road.
+// Funicular win
+Amazing!
+You did it.
+// Funicular stop
+Hey, get out of here.
+Nice and quick!
+// Funicular wait 2
+What are you still here?
+I told you to get out of here.
+// Funicular wait 3
+I don't understand...
+why are you just standing there?
+// Funicular tetris
+Why Tetris?
+Dude...
+// Funicular goodbye
+Bye.

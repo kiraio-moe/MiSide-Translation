@@ -1,0 +1,246 @@
+
+Wait, hold up!
+Not so loud...
+Going further is dangerous.
+BTW...
+how did you get here?
+
+Um...
+The ring opens the right doors.
+I honestly don't know how it works.
+
+The ring?
+
+What's up with this place?
+It's super dark.
+
+I'll tell you later.
+For now, go toward the exit.
+Meet me in the arcade machine.
+
+
+
+Hurry up, don't be tardy!
+
+
+// After mini-game
+So, get the point of the game?
+
+That I'm made of flesh and bone, and you're made of a skeleton model?
+
+Whoa!
+Sounds creepy when you say it like that.
+But, that's the gist of it.
+
+Right, but why do I need to understand that?
+
+Think I was telling you that going further
+was dangerous, just for the lols?
+You'll run into... abandoned models...
+The ones given up on, the "faulty" ones.
+They're aggressive, and may even try to kill you.
+
+So, what should I do?
+I'll just go
+wherever a door opens.
+
+Wow!
+Then don't turn your back on them.
+And don't let them out of your sight!
+They get shy when you stare at them,
+so shy they freeze.
+Keep that in mind!
+
+
+
+
+
+
+
+// Quest 1 (Why are there other Mitas down there?)
+They're freshly made.
+Yhey need time
+to gain self-awareness.
+Then I guide each one
+to her own home.
+
+// Quest 2 (Why is it so dark downstairs?)
+We Mitas are 'created' in the dark,
+so we need to remain there for a while.
+Imagine
+the pain of moving from darkness straight into the light...
+
+// Quest 3 (What are you doing here?)
+Still don't get it?
+I'm helping new Mitas settle in!
+Who will help them if I don't?
+You?
+
+// Quest 4 (Why do we need this conveyor?)
+What's this conveyor belt for?
+Is there enough room for everyone?
+
+Wait, don't tell me you don't
+understand how the world works...
+And that it's endless?
+
+Endless?
+Uhm...
+What do you mean?
+If 1.9 is the latest version,
+then there are only 19 worlds.
+
+My gosh, you really don't
+get how this world works at all.
+Look, I'll use this blackboard
+to explain it all.
+Want to hear about it?
+
+// Quest 5 (What is your version?)
+Wait,
+didn't I meet you in the latest version?
+Or perhaps it's just my imagination.
+
+Well, it's quite possible.
+I'm from version 1.5.
+Have you been to it?
+
+I have.
+That's where I arrived
+when I was thrown into this world!
+
+Whoa!
+But how...?
+But what house index where you in?
+There is a 'me' who just can't stop whining,
+a 'me' who loves horsing around,
+a 'me' with bad memory and likes bullying others...
+It's a long list...
+Tell me what you recall.
+
+It was dark.
+There was writing
+like...
+"Play with me."
+
+Ah,
+what a bummer...
+That's the 'me'
+who bullies and forgets things.
+
+// Mita wants to tell you [No]
+Thanks but no thanks.
+I'll do fine without knowing more.
+
+Alright, suit yourself.
+
+// Mita wants to tell you [Yes].
+Sure, go ahead.
+I just hope this won't be like high school
+where I always fell asleep out of boredom.
+
+You can leave anytime,
+or stay ad listen
+if you're interested.
+A player downloads MiSide
+and plays as much as they want.
+There, he creates a new home
+and a new Mita.
+This is a 2D representation.
+These are the versions,
+shown as lines.
+The houses are placed on these lines.
+Say you download the 1.14 version,
+which means a new life,
+a new Mita, and a new house.
+
+Heavens...
+
+You can ask about the details
+in this drawing,
+and I'll do my best to explain.
+
+// He asks about the only circle
+Why is there a single circle?
+
+That version was released just once,
+never to be repeated.
+It's the only genuinely unique version.
+Plus, these versions are special
+and don't have any paths to other versions.
+Sleepy Mita resides in this version, 1.1.
+
+Sleepy Mita?
+Because she never gets to sleep
+with everyone passing through her version?
+
+No, that's not it.
+You can pass her by and make noise,
+but its impossible to wake her up.
+
+// He asks about the shaded circle
+Why is this spherical one all dark?
+
+Uhm, that one's here
+because of Pretty Mita.
+She drew it.
+We were arguing over
+who could reach version 1.11 the fastest.
+
+So, who won?
+
+ME, of course!
+Look, we're here
+in version 1.15,
+house index 809.
+We need to reach version 1.11,
+house index 805.
+So, her path started like this.
+We tried to come up with a shorter route,
+so Pretty Mita suggested this path.
+And then I drew the simplest one, here.
+Easy, right?
+Just look here.
+From here, you can get directly to the correct version.
+While it may seem that this house is in the way,
+that it blocks your path...
+Anyway, your ring works based on the same principles.
+Where are you heading?
+
+The Core.
+
+The Core?
+Hmm...
+If you want the shortest route,
+you'll need to go through version 1.11 too.
+You'll definitely encounter Sleepy Mita there.
+I think the Mita who sent you,
+took the same path.
+Or maybe she hasn't realized you're on a different path.
+Or perhaps she's a genius
+and have come up with an even shorter route!
+
+I think I might get it.
+
+// He asks about the inscription
+What's this about?
+
+That's for Cool Mita.
+She'll be here in a few hours.
+She'll move those boxes
+and place a sofa here.
+My ass hurts!
+
+Emm...
+Maybe I could help?
+
+No, that's Cool Mita's job.
+She's tough.
+
+// He asks about the drawings
+Is that just a drawing,
+or
+does it mean something?
+
+Yeah,
+it's just a doodle.

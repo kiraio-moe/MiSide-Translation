@@ -1,0 +1,221 @@
+
+There you are!
+Why did you leave the Core?
+I told you to wait for me!
+
+I thought you'd be gone for longer...
+
+Well, all righty...
+I think I found something...
+I think it's an index...
+We'll have to see if it works!
+Let's get out of here.
+Crazy Mita...
+I think she's busy with a new player.
+So hopefully she's too busy to mind us...
+
+Mita?
+Wait for me.
+
+
+Did you drop something?
+Wait, you met her again!
+
+Mita...
+
+Catch!
+
+
+How come...
+
+Who are you?
+
+You're... you're alive!
+Don't you remember?
+
+Do I know you?
+
+What's going on...
+What am I supposed to do now?
+I can't get out...
+
+What do you mean, "get out"?
+
+Wait...
+That's the ring...
+And that?
+
+Not a clue what it is.
+
+It's an index!
+You found it!
+
+I don't know what to say.
+
+We must get back to the Core.
+And you...
+Perhaps you ought to come with me...
+
+Uhm, what?
+Sure...
+
+Wait here.
+
+Mm-hmm.
+I'll sit right here.
+
+
+Shit...
+That was a close call.
+So... did we do it?
+Good.
+I'm in the correct version.
+
+
+Hiya!
+You're a player, aren't you?
+What's your name?
+
+I want to leave this place...
+
+You want to leave so soon?
+How did you get here in the first place?
+Oh well...
+Fine, you can leave...
+Just try the door.
+Good luck with that!
+
+
+A wall?
+Hmm, that's all wrong.
+Perhaps...
+there's something in the basement that'll help you.
+I recently discovered
+a door in my wardrobe...
+Turns out it leads to a basement.
+But its full of junk,
+junk and a ton of fancy equipment.
+You have to enter some kind of code or something.
+I don't really get it.
+And I don't care.
+It's also kind of uncomfortable, I mean, really uncomfortable.
+Will you take a look?
+
+Uhm, okay.
+
+// Player thinks
+I don't think
+she remembers anything...
+Did we do it?
+Did we reboot her?
+Then all I have to do is
+get out of this damned game...
+
+
+Not so quick.
+I'd like to hug you.
+
+Huh?
+// Hugs
+It was good seeing you.
+
+Ahh...
+it's a realm shame
+that you and I
+got to spend so little time together.
+
+Err...
+What are you talking about?
+
+I mean,
+you could've stayed with me...
+It's all my fault...
+That wardrobe and the... the sounds.
+I should have KILLED her sooner!
+
+Wait a minute,
+Didn't you...?
+How can you remember any of that?
+
+HA!
+Did you really think it would be that easy?
+You're just a fool...
+Just like all the other players...
+We've done just fine, look!
+The REAL
+you isn't
+needed anymore.
+Sorry, tee-hee.
+
+I can't believe it...
+Did we faul...?
+No... I rebooted you, I'm sure of it...
+
+You still don't get it...
+Ha-ha-ha!
+I'm such a great actress!
+You should've seen your face, honey-bun!
+This is so much fun!
+
+Why are you like this?!
+What's wrong with you?!
+
+Yeah...
+What's wrong with me?
+Beats me...
+Why don't you tell me why I'm like this?
+Why I'll never be a real Mita?
+My version, it never
+existed in the first place!
+I'm just skinning these naive fools,
+hiding under their skins...
+There's no way you can
+reboot me!
+
+Unbelievable...
+You...
+They're not the problem!
+You're the one who shouldn't exist!
+
+Now you, too...
+It hurts to hear you say that.
+And yet!
+It's time for you to go!
+I'll see you again soon!
+Everyone's ready!
+It's
+time to get you out of the console!
+See you later!
+You'll be my favorite cartridge...
+A player with an interesting name.
+
+// core console - nope programm
+That's probably not it.
+That's not right either.
+Nope, wrong.
+That's not it.
+I need to find the character reset option.
+
+// core console - nope version
+That's the wrong version.
+Oops, my mistake.
+That's not it.
+Gonna need another one.
+
+// core console - nope index
+Something's wrong
+with the index.
+I need to change the index,
+it doesn't fit.
+
+// Why kitchen
+Are you hungry?
+I'm great at chopping carrots. :)
+
+// Why bathroom
+Ah, I guess
+you wanted to go in alone?
+
+// Why bedroom back
+Why are we just going in circles?
+Why return here?

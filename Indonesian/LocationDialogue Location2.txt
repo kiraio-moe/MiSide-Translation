@@ -1,0 +1,9 @@
+// Player start
+Where am I?
+This place looks familiar.
+Wait... I'm in the game?
+// Player try open the door
+Locked?
+// Player in dark
+It's dark in here.
+I can't see anything.

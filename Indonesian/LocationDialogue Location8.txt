@@ -1,0 +1,84 @@
+// The first meeting
+Who are you?
+What's the matter?
+Can't you speak?
+
+
+Wait...
+You want to leave, don't you?
+
+Yes...
+I need to get back
+to the previous version.
+
+The previous version?
+Why leave and go
+someplace else?
+Why not stay here
+and be my
+second friend?
+
+// Skipping all dialogs
+Okay...
+
+// Standing by the window (Random)
+You won't find your way out through doors.
+You seem to be in a hurry...
+Running in circles won't save you.
+So eager to escape?
+Look outside the windows...
+
+
+// Quest 1 (Aren't you Mita?)
+Player... you're a player, aren't you?
+We can play together.
+If I can find the strength,
+all we need to do is play.
+
+// Quest 2 (What happened to you?)
+I'm uncertain, and I actually don't know...
+I don't think anything bad has happened...
+But everything good seems to be slipping away...
+Though, at least I have a friend.
+Why did they leave me?
+Was I not enough?
+I'm scared...
+
+// Quest 3 (Become a second friend?)
+Friends...
+I have so few left now.
+Only one remains...
+I'm sad, player.
+Will you be my friend?
+
+I'd love to,
+but I have to go on...
+
+My heart aches...
+
+// Quest 4 (Is this your house?) - MitaLittle
+Home?
+Player...you've changed...
+Your arms are shorter, and you don't look so angry...
+Player, you've grown softer, kinder.
+
+I'm not sure...
+what that means.
+
+It's okay...
+because I won't hurt anymore, will I?
+
+// Quest 5 (How do I leave this place?)
+Are you really leaving me?
+Is this perhaps just my...
+destiny?
+
+I...
+
+The doors won't help you.
+
+// Hold player (Random)
+Why leave?
+Stay here...
+Play with me...
+Player...

@@ -1,0 +1,161 @@
+// Player thinks + Make coffee
+I'll need someone's help here.
+I hope the Mita here doesn't bite...
+
+What am I wasting my time on...
+
+
+
+
+// Player tries to wake up MitaDreamer
+Mita?
+Mita, wake up!
+Mita!
+
+Mita, wakey-wakey!
+I need your help.
+
+Who are yooouuu?
+
+Help me with the switches.
+
+What switches?
+Let me sleep...
+Or get me a coffee.
+
+The coffee maker's just over there.
+Mita?
+Mi-ita!
+
+
+
+// Player gives away the coffee
+Mita,
+here's your coffee.
+
+
+
+// MitaDreamer exercise
+Switches,
+you say?
+
+Yes.
+
+How come you know about them?
+Though, why do I even ask...
+Considering you're here,
+you should know plenty already...
+
+Just a minute,
+I need to sit down.
+
+And?
+
+I don't know what to say...
+But I need to keep going,
+keep following the ring's guidance.
+
+You have her ring?
+No wonder
+you found this place.
+
+That's right.
+So, can you help me?
+With the switches?
+
+Sure.
+I will.
+With the switches...
+
+
+Mita, come on...
+Let's go already.
+
+Uh?
+All right.
+Let's go.
+
+
+// MitaDreamer fall
+Get up.
+Are you that sleepy?
+
+// MitaDreamer again sleep
+Wake up.
+We're there.
+
+
+// Switches
+Okay,
+I'm ready.
+
+I'm ready, too.
+
+Well.
+I'll start
+the countdown.
+And we'll pull the switches together.
+Okay?
+
+Just keep awake, OK!
+Go.
+
+
+3
+2
+1
+
+// Player lose 1
+Are you spacing out?
+Come on,
+let's go again...
+
+// Player lose 2
+One more try?
+Come on,
+I'm...
+I'm falling asleep here...
+
+// Player lose 3
+I'm all but falling asleep...
+
+
+
+Wonderful,
+thank you, Mita.
+
+Mm-hmm.
+
+
+The doors...
+so...
+slow...
+
+
+I'm off to bed...
+
+// Why kitchen?
+Why head to the kitchen?
+If I fall asleep on the cold floor,
+it's your fault.
+
+// Why bathroom?
+I don't understand...
+what switches did you need help with?
+
+// Put button
+Nothing happened?
+Then what's this button doing here?
+
+// Cofee
+Some more coffee?
+Or you'll fall asleep again.
+
+What?
+Nooo...
+This coffee tastes terrible...
+I'm totally fine...
+
+// Button
+Mita? The button doesn't work... Co you hear me?
+Hello?

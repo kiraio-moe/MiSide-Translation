@@ -1,0 +1,605 @@
+
+I... I'm back!?
+
+Oh, my God!
+You scared me!
+Oh, man,
+My save—oh, no!
+I don't get it...
+where's the game?
+You've ruined the route!
+What do you want?
+
+I need the version...
+
+Huh?
+
+I have to get back to the old version somehow.
+
+Okay!
+I'm way too busy
+to entertain you, sillyhead!
+
+And what's that? Toys?
+
+Look at him, what a jerk!
+There'll be no friendship between us.
+
+Listen, I need to get to the Core.
+
+It's your fault I got hurt.
+Damn.
+Huh?
+
+...I need to get to the Core and stop Mita!
+
+Mita?
+Please!
+I don't care about her!
+Not the first, not the hundredth!
+
+But you're Mita, too...
+
+I'm Mila.
+
+Mi-Ta? La?
+
+Yeah! They're all Mita on Mita,
+Mita here, Mita there, Mitas all over the place!
+
+So... you're Mila
+
+Yes, I told you! How slow can you be?
+
+Well, good luck, then, Mila...
+
+Where do you think you're going?
+Think you can just walk out of here like that?
+
+// Player check exit
+Did you think you'd find something in there?
+
+Damned it all!
+What is this?
+
+What were you expecting—
+Wonderland?
+
+How do I get out?
+There's supposed to be a way out here.
+
+There's no way out.
+
+Well, what version is this, then?
+I think I'm on the right track.
+
+// Glitch kitchen
+Is this yours?
+
+Stay back!
+I don't know what it is...
+some kind of glitch!
+
+My ring is shaking for some reason.
+
+What kind of ring?
+An engagement ring?
+
+No, it was given to me by one of the Mitas—one of the thousands of them.
+The one that might be able to get me out.
+
+And you're going to touch it?
+You know if my house blows up, you're dead too!
+
+// Bathroom - Mila is washing
+Hey!
+Get OUT!
+Can't you see the bathroom's occupied?!
+// The player continues to stand 1
+Why are you still standing there?!
+Get out!
+// The player continues to stand 2
+Don't piss me off!
+Get out of here!
+// The player continues to stand 3
+Are you deaf or what?
+I'm taking a shower!
+
+// Mila came out and swears
+What was that?
+No shame, no conscience...
+
+Why did you suddenly barge into the bathroom?
+You could've waited
+until I was out!
+
+I didn't know how long you'd take.
+How much longer are you gonna keep messing with these glitches, anyway?
+
+Glitches?
+There are more?
+
+Yeah...
+well, if my house is still standing,
+I'm assuming you handled the glitch in the kitchen?
+
+I kind of did.
+
+Good. Now, you have my permission
+to go into the bathroom.
+
+Thank you.
+
+// Mila hides under the table
+Mila?
+What are you doing under there?
+
+Ouch!
+You scared me again!
+What do you want?
+
+Have you seen any more glitches?
+
+Oh, so your problems are supposed to
+be an excuse to stop me from finishing my book?
+No, I haven't!
+
+All right, I'll look for it myself.
+
+Hold on,
+I have to ask...
+you want to go out there,
+don't you?
+
+That's right.
+I want to get out of this game.
+
+This might sound strange...
+but won't you stay and read with me?
+
+First you're yelling at me, now you're asking me to stay?
+To read books?
+Maybe I would,
+but I have to keep moving.
+
+Fine!
+Go on and look for your glitches...
+That's the second time I've hurt myself
+because of you!
+// Player saw a glitch
+Ah, found it.
+
+// Mila stands with a sword
+Are you paying attention?
+Fear me!
+Look what I can do!
+That's how dangerous I am!
+And yet... you didn't even blink.
+
+You being serious?!
+
+What's wrong?
+Was that not convincing enough?
+
+Not really...
+
+So, you've seen everything while solving those glitches,
+haven't you?
+You already knew the stone was pre-cut,
+didn't you?
+
+No.
+It's just... we're in a game.
+Here, with a snap of your fingers, anything's possible.
+
+Oh,
+you idiot!
+A snap of my fingers, huh?
+What do you think I've been reading all those books for?
+So I could snap my fingers and be done with it?
+I'd rather do everything myself,
+exactly the way the books describe it.
+
+// Mila is doing push-ups
+What are you doing?
+
+Can't you tell!?
+
+Yeah, but why are you doing it?
+
+To get strong enough to punch you in the face!
+
+What's wrong with you?
+You're acting weird.
+
+Right!
+About the punching thing—
+I wasn't serious.
+And I'm not weird!
+I'm unique!
+I want to be as different from everyone else as possible.
+
+You don't have to try so hard.
+Trust me—you're already plenty different.
+
+I know!
+Look what I can do!
+See that?
+And now—no hands!
+
+I know it's a game,
+but this is ridiculously unrealistic...
+
+Ouch!
+Ohh!
+Stupid physics...
+You talk about realism,
+and then,
+boom! This happens!
+And you're calling ME weird?
+You dummy!
+
+// Last glitch ready - player exit
+There's the passage.
+We did it, Mila!
+
+
+Well done,
+hero!
+
+Oh, my God!
+
+Oh!
+Sorry—I didn't mean to.
+
+It's fine, Mila. I can move on now.
+
+Look, I know you need to go...
+but can't you stay here
+just a little longer?
+
+I can't wait.
+Crazy Mita isn't exactly the patient type.
+
+Ugh, I hate her!
+
+I hate her, I hate her!
+
+Mila, listen...
+
+Why am I even here?
+I don't understand!
+Why don't I understand?!
+And I'll never get out of here!
+
+I understand how you feel, Mila.
+Do you want me to come back? Afterward?
+If I can?
+
+Stay here, Player...
+You're fun, not like being alone...
+What if you don't succeed?
+
+I will. It's just a little while longer.
+// If the player clicks on the computer
+Just got back from that flat dimension,
+and now... here we are again.
+I can't wait to get back to the real world...
+
+Ha-ha-ha! :)
+Oh,
+the 'real' world, huh?
+Like an urban legend!
+Never seen it myself.
+
+I think...
+there has to be a way back.
+
+Aren't you confident!
+What a joke!
+
+// Ask about books
+Why do you even read books?
+There's the internet...
+
+The internet? It's full of novels!
+But I'd rather have
+a real book in my hands.
+It's only through
+them that I'm starting
+to learn about...
+this world.
+
+// Ask about the paintings
+These pictures—are they real?
+In other versions,
+yeah, they exist... but they're almost too intense.
+
+I'm MiLa, got it? Not like the rest.
+And these?
+They're drawings, you know,
+pretending to be more than they are.
+I've seen other Mitas
+standing just like this.
+
+Mila?
+Hello?
+// Mila.
+After all that...
+I don't want to be like that.
+It's... disgusting!
+
+// Ask about the butterfly painting
+Have you seen nature?
+Real butterflies like that?
+
+No,
+but I have a book here somewhere.
+It even has little wings pressed in it...
+This painting,
+though...
+it's a bit crooked.
+And there's a stain...
+Ah, that's better.
+
+Would you want to see the real thing? Go on a walk in nature?
+
+Such a silly question!
+Of course,
+I would!
+
+// Make long eye contact 1
+Why are you staring?
+Look away!
+
+// Make long eye contact 2
+Enough!
+Quit it, already!
+Dummy...
+
+// Make long eye contact 3
+Come on!
+What's with the staring?
+I'm a lady, you know!
+
+Have you ever heard of manners?
+Shoo!
+
+// Whispers 1
+Why do they always send me
+some clueless guys,
+and expect me to play nice?
+With mini-games?!
+Like a dumb Tamagotchi!
+
+// Whispers 2
+He's just wandering around...
+nosey little fool.
+
+// Whispers 3
+Did you say something?
+This background music is driving me crazy!
+
+// Whispers 4
+How do I tell him
+I'm busy?
+I don't want company...
+What if he leaves? No, why should I care?
+
+// Whispers 5
+Mom... Dad...
+Why do those words sound familiar?
+
+// Whispers 6
+Snow once fell here... but why?
+
+// Whispers 7
+Just shows up out of nowhere! Creepy.
+What if... there's nothing there?
+
+// Nearby 1
+Here we are,
+standing around...
+in silence...
+Why are we just standing here?
+Cat got your tongue?
+Or,
+you just don't know what to say?
+
+// Nearby 2
+I'm swearing off carrots!
+Seriously, declaring war.
+Do you know what that thing does to a girl's
+perfect, snow-white skin?
+
+// Nearby 3
+Books aren't helping much with this, but if I'm lucky,
+maybe I'll finally get to the bottom of it...
+These endless carrots popping up
+behind me are giving me
+the creeps!
+
+// Nearby 4
+I don't like eccentrics!
+Carrot lovers, cat lovers...
+And here you are, collecting glitches.
+Honestly, you're the strangest person I've ever met!
+
+// Nearby 5
+Want to know what I'd love to do most?
+...Well, that's a bit embarrassing to say.
+
+// Nearby 6
+They say fighting
+your nature is a CHALLENGE.
+I'm working on discipline, but you
+have no idea how my hands itch to just
+sit down and have a tea party with you!
+
+// Nearby 7
+Even with glasses,
+I can't see through the layers of your strange,
+single-minded determination.
+
+// Nearby 8
+I've read that fate is like some scripted thing
+that even spells out
+how you'll spend the day.
+Ha! Who wrote that crap?
+Was it you?
+
+// Nearby 9
+I can stand fools, but the crazy ones?
+Hate them.
+
+// Nearby 10
+Some of the Mitas
+are actually kind of cute...
+I'd like to know them better even if they're just
+clones of clones of clones.
+
+// Nearby 11
+But there's one who's a bit different.
+She's got a screw loose, though.
+
+// Nearby 12
+No ponytails!
+I'd chop them off if I could!
+They're embarrassing!
+You know what I mean—you shaved your head!
+
+// Nearby 13
+What if there's just nothing behind that door?
+And this house, you and I—exist
+for no reason at all?
+So why are you so sure?
+Ever heard of the five-minute hypothesis?
+
+
+
+// Last glitch ready - player exit
+What a creepy hallway...
+Are you actually going in there?
+
+Yes.
+
+// FaceStone
+Oh, a 'thoughtful' gentleman.
+What do you need him for?
+
+You'll find out
+soon enough.
+And why are you always doing this impression of him?
+Just keep your face simple.
+
+Uh...
+okay.
+
+// Katana
+Is that a toy katana?
+
+It is NOT a toy katana!
+One touch of this blade
+and you'll bleed.
+I'm a skilled swordsman, unlike you!
+You better take care of yourself—
+wouldn't want to see you slice your own fingers off.
+
+// Mirror
+Mirror...
+and no reflection?
+
+You
+look so disgruntled.
+Look, I read all about reflections
+in books!
+But in my version, I can't make them.
+I can't do it, okay?
+
+// Switch light
+This thing doesn't work.
+Lights here turn on and off by themselves...
+like some sort of script!
+But!
+For some reason, the bathroom switch
+actually works.
+So weird!
+// Switch light off
+It's still light in here?
+
+// Little carrot
+A carrot?
+Wait, where'd it go?
+
+Ugh, I am so sick of that carrot!
+It's like it's alive!
+Every time I see it,
+it teleports somewhere else.
+
+// Little carrot
+Oh, it's that carrot...
+gone again!
+You think there's anything we can do about it?
+
+No.
+Trust me,
+I've tried!
+Just ignore it. I think it's
+some kind of cosmic joke.
+
+// Tetris
+Hey!
+Am I some kind of joke to you?
+// Tetris
+I'm not giving it back.
+Nope, never!
+
+// Soap.
+So, uh... is this soap real?
+Or just another decoration?
+
+Are you kidding?
+Most things here are actually
+the real deal! Honestly...
+
+// BagWall
+Where did you go!?
+
+Can I get through here?
+
+Did you find a new bug or something?
+What is it?
+
+It looks like...
+nothing.
+
+Ah, back again.
+
+// Quest 1 Glasses
+Is your eyesight bad?
+Why do you need glasses?
+
+What—don't like them?
+It's called style!
+And my eyesight's perfect, thanks.
+
+// Quest 2 Name miLa
+Mi-La?
+Why not...
+Mi-Ka?
+Or Mi-Sa?
+
+I'm Mila. That's it. Why?
+
+Oh... nothing.
+
+// Quest 3 Evening
+I like the evening.
+When will night fall?
+
+Night?
+Ugh, don't even start.
+The endless days here...
+just one after another,
+like they're on repeat.
+Ugh...

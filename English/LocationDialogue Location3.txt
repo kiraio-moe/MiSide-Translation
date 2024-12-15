@@ -1,0 +1,437 @@
+
+Hello, [player]!
+We finally meet!
+I'm so excited!
+I know you have questions...
+Well, as you can see,
+I made this special device
+to bring you here to my side.
+But you ended up in another version of the game...
+In which I...
+But that's a long story!
+Anyway, I'm just happy to see you!
+
+// Answer 1 - Mita
+I am.
+And you must be [player], right?
+
+// Answer 2 - Mita
+Go back already?
+I guess I could help you with that... But what about me?
+Please, stay with me for a while...
+
+// Answer 3 - Mita
+Let me explain...
+And here you are!
+Got it?
+Uhm... not really.
+That's fine!
+What's important is that we're together now.
+
+
+Are you hungry?
+How about we cook something up?
+Here,
+help me with these carrots.
+
+Where did the vegetables come from?
+They weren't here just now.
+
+[player], we're in a game.
+Come on, give me a hand.
+
+Thanks!
+Can you grab the scissors?
+They're in the bathroom.
+
+Now, have a seat.
+
+
+// Kitchen
+Would you like some sauce?
+
+No thanks.
+
+That's a shame.
+Sauce really enhances the flavor!
+
+
+Thank you.
+
+Finished it all already?
+Huh, my portion feels
+endless...
+
+
+// Help
+What's wrong?
+Tell me what you see and feel.
+
+My heart's racing,
+and my vision's blurring.
+
+Right.
+I think I know what's wrong.
+Can you stand up?
+
+
+
+What are these?
+
+Pills.
+They'll make you feel better soon.
+Go to the mirror.
+
+Take the pills.
+Come on now.
+
+
+
+How are you feeling?
+Any better?
+
+Yes.
+That worked fast...
+
+[player], we're in a game.
+Things are much simpler here.
+Even the smallest effort
+gives great results.
+It's all part of the game concept:
+Simplification.
+
+An example, please?
+
+Well, take carrots.
+You cut one,
+but it's as if you cut three.
+
+Look, this is all very sudden.
+I'm scared, more than a little.
+
+
+What's the matter?
+
+I found cartridges in the air vent.
+They had names on them.
+What's the deal with that?
+
+Cartridges?
+What cartridges?
+Let's figure that out together.
+But later.
+Right now, we've got to eat.
+Pass me the scissors, please.
+
+// Ring
+A ring?
+// Mirror
+How come there's no reflection?
+
+Oh, right!
+I forgot to turn on reflections.
+There we go.
+Reflections are back!
+By the way,
+I honestly didn't even know what reflections were before.
+They didn't exist in my world—
+not until some update, that is. :)
+Are there lots of reflections
+in your world?
+
+Well, yeah.
+
+
+Do you recall
+the three objects you found?
+The ones you placed on the scanner?
+Well, um...
+Those objects
+are tied to this version of the world.
+That's why you’re here now.
+
+// Movbile TV
+That's the portable TV
+I bought you.
+
+Yep!
+
+You told me
+it was broken.
+
+Well, I wanted to
+surprise you!
+I told a little white lie
+to get you here, into my world.
+It works now—displays information!
+Oh, and by the way…
+I'm a bit of an engineer!
+
+// School cloth
+What's this?
+A school uniform?
+Why would you need that?
+Do you actually go to school?
+
+Go to school?
+Not at all.
+But I love the uniform
+Don't you think I look cute
+in it?
+
+// PC
+Does the computer work?
+Or is it just desk decoration?
+
+Of course it works.
+Everything here
+works exactly like in your world.
+
+Back in my world,
+I sit at my computer a lot...
+And work hard.
+
+I know.
+It's because of your job
+that you've paid me
+so little attention.
+
+Gotta make a living, you know.
+Though… how do you know I sit at my computer a lot?
+
+Your phone's camera... it's on sometimes.
+I'm sorry.
+I've been watching you in secret >A<
+
+Uhm… that's not entirely proper.
+But whatever.
+
+// Umbrella
+I've played a ton
+but I've never seen it rain here.
+Why have an umbrella?
+
+It rains—just very rarely.
+You just haven't seen it yet.
+Maybe on day you will.
+And then you'll need an umbrella.
+Don't you think?
+
+// Electrical panel
+Why is there an electrical panel here?
+And if we're in a game,
+what's it for?
+
+Firstly,
+we're in a game.
+So asking 'Why' is...
+pointless.
+However, it does
+restart the electricity.
+Everything here is made based
+on your world.
+
+// Exit door
+Can we go outside?
+
+Well...
+Not yet.
+Perhaps later.
+Let's stay here for now.
+Here at home.
+
+// Books
+You've got a ton of books here.
+Have you read them all?
+
+I have, every single one.
+Being here alone
+is really, really boring.
+
+// TV in room kitchen
+Why get a second TV?
+And an old one, at that?
+
+You don't like it?
+I can take it away...
+But to answer...
+It's for decoration,
+to lighten up the kitchen.
+But it works, too!
+I can watch all the
+classic shows!
+
+// Smartphone
+That's my phone.
+And it's no longer in my pocket.
+How on earth did it end up here?
+
+Uhm, that's not important.
+Hey, I've got an idea!
+Let's take a photo!
+Smile!
+That's a great picture!
+A keepsake for you.
+
+I've got a question.
+If I
+run a game on it,
+will I see you there?
+
+No, it doesn't work that way.
+
+Cool Juice
+Strong JUICE!!!
+// TV
+How many channels
+do you have?
+
+It doesn't work like that.
+It's connected to the Internet.
+So you can watch anything,
+at least anything that's available on the web.
+Hold on.
+Err, oops.
+What's that?
+A circle of kittens?
+Oh, look.
+You know what?
+Pause!
+Want some juice?
+
+Such peculiar ads...
+Dead juice?
+
+Yeah, and this juice
+is straight from the juice ad.
+
+
+Ah, the taste...
+I like it,
+and yet, I can't tell what it tastes like.
+It's all very confusing.
+
+Right.
+
+// Mita shy
+What are you doing?
+Don't stare, please.
+You're making me embarrassed.
+
+// The statuette
+That's one creepy figurine.
+Do you
+like such things?
+
+You find it spooky?
+
+Yeah.
+Almost looks like its cursed...
+
+Nope, definitely not cursed.
+And not creepy either.
+I find it rather cute!
+
+Maybe you're right...
+
+Mita?
+What's happening?
+// Mita kitchen
+How about a chat
+before we dig in?
+
+// Start Eat
+Bon appétit.
+
+// Quest 1
+It is, isn't it?
+You can stay.
+I don't mind at all.
+Actually, I'm
+ALL FOR IT!
+
+// Quest 2
+You want to go back?
+But why?
+It's so warm here...
+And cozy, too.
+Plus, I'm here.
+
+No, you misunderstand.
+I'd love to stay.
+I'm just... worried.
+Worried I forgot something at home...
+I arrived here out of the blue
+and didn't have time
+to prepare.
+
+Oh... sorry. I didn't think that far.
+// Quest 3
+A dream? So you want to escape?
+And forget this ever happened?
+
+No, that's not it.
+This place just feels...
+strange. Unnatural.
+But you...
+you seem so real.
+
+I seem real?
+I'm VERY real,
+you sillyhead!
+
+// Quest 4
+That's just how it is
+in this world.
+You might find it strange
+that you can't see things
+in the far distance.
+
+It didn't strike me as that odd.
+Honestly, it looks classy.
+
+Yeah, I think so too.
+It's to avoid lag, you know.
+
+Avoid lag?
+
+Yep! There are still a few unsquished bugs.
+Let's just hope you don't run into any.
+
+// Quest 5
+Scissors or a knife, huh?
+I could've used a knife to cut open the sauce packet.
+But I wanted everything
+to be perfect
+when you got back.
+I love surprising you.
+And it didn't even take me that long!
+Tee-hee.
+
+// Glasses
+Do you wear glasses?
+
+Not really.
+But I can, if you like.
+Do they look good on me?
+// Yes
+There we go!
+I'll keep them on.
+// No
+Well...
+Whatever...
+
+// Use the sauce
+All right,
+what kind of sauce is this?
+
+It's love sauce!
+Chock-full of love!
+And… a contrasting view of the world.
+Unusual, don't you think?
+
+Indeed...
+
+// Tetris - Mita
+Is that your console?
+It looks so cool.

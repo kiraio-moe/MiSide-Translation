@@ -1,0 +1,145 @@
+New game
+Continue
+Main menu
+Exit
+Settings
+Achievements
+Credits
+Back
+Load
+Language
+Loading...
+Graphics
+Sound
+Keyboard & mouse
+Controller
+Resolution
+Windowed mode
+Graphic effects
+Color effects
+Soft shadows
+Blur
+Glare
+Anti-aliasing
+Shadows
+World display quality
+Programming
+Animation
+Sound effects
+Music
+Particles
+Textures
+3D models (98%)
+Script
+Reset
+Forward
+Back
+Left
+Right
+Interaction
+Mouse sensitivity
+Quit the game?
+Yes
+No
+Back to main menu
+Smooth turns
+Game settings
+Shadow style
+Clothes
+Interface
+3D models (2%)
+Game video
+Pause
+Menu
+Congrats! You completed the game!
+Your time:
+Subtitles
+Brightness
+Vertical sync
+Saved
+Characters
+Characters - Mitas
+Characters - Cartridges
+Cartridges
+Mitas
+Start with a clean slate
+Are you sure you want to completely delete all your progress and start from scratch?
+Compiling shaders, estimated wait time: 2 hours.
+2-hour compilation?! That's bogus! We skipped the queue for ya!
+Creating realistic shadow tracing—estimated to take 10 minutes.
+Just kidding, we don't use those fancy things here.
+Umm...
+Oh, we are ready!
+Sway while walking
+Show hints
+Player voice
+Discord
+Added character profile
+Camera angle
+Voice
+Off
+Hand reaches out to the door
+Animation
+Enable player voice
+Mita
+Short-haired Mita
+Kind Mita
+Cap-wearing Mita
+Tiny Mita
+Sleepy Mita
+2D Mita
+Mila
+Creepy Mita
+Core Mita
+Ghostly Mita
+Chibi Mita
+Dummy Mita
+
+
+
+// Name load location
+I'm inside a game?
+Together at last
+Things get weird
+The basement
+Beyond the World
+The Loop
+Mini Mita
+Dummies and forgotten puzzles
+She just wants to sleep
+Novels
+Reading books, destroying glitches
+Run and hide!
+Old version
+The real world?
+Reboot
+
+
+
+
+Player 1
+Player 2
+Player 3
+Player 4
+Player 5
+Player 6
+Player 7
+Player 8
+Player 9
+Player 10
+
+Peaceful Mode
+This mode is still in development! It's so expansive that the developers haven't managed to finish it yet. But don't worry—they've promised it will be included in a major update coming soon. And look at you, already ahead of the curve by unlocking access! Now all that's left is to wait...
+So, what is Peaceful Mode? It's your chance to reconnect with Mita in a completely different way! She'll be overjoyed to spend more time with you, from morning to night, in a world brimming with fun and surprises. Expect heartfelt one-on-one conversations, sharing cookies, playing games, and plenty of hilarious moments together.
+
+
+Gore
+Special Thanks:
+Achievement Icon: Iceсloud
+Photograph: Nineko Hori
+Translator
+Converts the game's text into another language.
+Publishing Partner
+Game marketing
+Tester
+Played and found all manner of bugs.

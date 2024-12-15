@@ -1,0 +1,400 @@
+Mita?
+Ah, awake already?
+How did you get here?
+You were right next to me just now.
+
+No, I wasn't.
+You froze before the mirror.
+So I left.
+Why have the rooms changed?
+
+I rearranged the place
+to make you feel more at home.
+In here,
+we can change the rooms
+however we want.
+
+You didn't have to.
+I was getting used to the layout.
+Either way, I think you'll feel more at ease with this layout.
+// Mita card game
+Right,
+shall we play?
+The game works like this:
+This chip indicates a type,
+such as health:
+We each play a card,
+and if your card has a higher
+Health stat
+than mine,
+you win.
+Pick up your cards.
+It's my turn.
+Whoa!
+I got quite the hand!
+I'll go first!
+
+
+
+
+
+
+
+
+
+OK!
+Your turn!
+Uh-huh.
+Your turn!
+
+Highest health stat wins!
+It's all about attack!
+Just focus on defense!
+
+
+You won!
+You won!
+You got me.
+Oh you...
+
+I win!
+I'm the winner!
+I won!
+Hah, got ya!
+
+That's a tie.
+All equal!
+Now that's a draw!
+The same value...
+
+
+
+
+
+
+
+
+
+
+
+// The card game is interrupted
+What's that sound?
+It's coming from the wardrobe.
+
+Sound?
+What sound?
+I didn't hear anything.
+What did you think you heard?
+
+Knocking, as if someone's in there.
+
+But...
+There's no one there...
+
+I'd like to open it and check.
+I'm a bit creeped out.
+
+But why...?
+This again...
+
+
+
+
+
+
+
+What's up with you!?
+It's a wardrobe...
+I've got my underwear there...!
+
+Are you hiding something from me?
+
+Why won't you just believe me?
+What am I doing wrong?
+What I want...
+all I want is for you to be with me.
+
+I'd like that to, but still...?
+
+Why are you so stuck on that wardrobe?!
+
+I want to know what on earth that knocking was!
+
+Is it because
+this world
+only has these four rooms?
+Isn't that enough for you?
+Why can't you just be with me?
+
+
+// Don't stay with Mita
+I get it.
+This again...
+If you want to check the wardrobe,
+then do so,
+and find out what's in there!
+
+
+
+
+What the...
+
+That happens sometimes.
+The room got stuck loading.
+Just wait for a sec.
+
+This is so weird.
+Are we inside someone's phone?
+Maybe a slow one with long loading times?
+
+Not at all.
+But not everything's perfect
+in this world...
+We're being loaded
+along with the world's core.
+
+The world's core?
+
+Typical, don't you think?
+
+
+
+Anyway, we can
+play a console game
+or just cards.
+You choose.
+
+
+
+// Mita play fight
+Wanna fight?
+You have to win
+four times.
+Bring it on.
+Don't worry, I'll
+go easy on you at first.
+
+
+That's a good boy.
+You better focus!
+
+Whoa!
+Right, okay.
+I'mma get serious.
+
+Wow!
+Let's see if you can
+beat me now!
+
+You are
+simply
+incredible! That's some skill!
+
+
+What's the matter?
+Huh, that's dull.
+
+Well,
+that's it. You believe in fate?
+
+Then,
+get your act together or you'll be a loser forever!
+
+What's the matter with you today?
+I mopped the floor with you.
+You didn't give it your all—
+that's why I won!
+
+
+All right, then.
+How about we play some cards?
+They're in the bedroom.
+
+
+
+// Door > [ERROR]
+Huh, what's going on?
+Where's...
+
+Uh-oh.
+Sorry...
+I downloaded something
+from the net.
+I wanted to spruce up
+the outside a bit.
+But turns out
+there was something wrong with the file.
+I'll fix it later.
+
+Is that why we can't leave the house?
+Yeah, that's why.
+// Mita shy
+Hey...
+What's the matter with you?
+You want something?
+
+
+
+// Wall Clock
+This here clock,
+what time does it show?
+The current time in the game?
+Or is it synced with my phone?
+
+Well, uhm...
+I honestly don't know.
+But time doesn't matter here...
+Whether it's late or early,
+a strong girl like me
+is always full of energy—
+I never get tired!
+We can have eternal spring,
+or a never-ending afternoon!
+
+That's interesting...
+but also a bit creepy.
+Stuck in the same moment, forever...
+
+
+
+// Photos of Mita
+Nice pics.
+I'm guessing these are of you?
+
+Yep.
+I like them, too.
+
+Who took them?
+Are there others in this world, too?
+
+You could say that.
+I'll introduce you eventually.
+Just not yet.
+For now, I just want to be with you alone.
+
+
+
+
+// Portal
+Where did the portal go?
+Or whatever it was you called it?
+
+I used a
+little magic
+and moved it
+somewhere else.
+We don't need it anymore.
+It'd just get in the way.
+
+
+// Mirror in the bedroom
+Looking into a mirror without
+seeing a reflection—it's creepy.
+
+We can turn on reflections
+if you really want to.
+But, do we really need them?
+
+Of course we do.
+Or... will turning them on have consequences?
+
+Yes.
+We'll stutter and move slower.
+Ever seen a cartoon with low frames per second?
+It'll be like that for us, all the time.
+
+Got it.
+Then perhaps we better keep reflections turned off...
+
+Hey, [player],
+you sure like mirrors, don't you?
+Afraid of seeing a smile on that face of yours?
+
+Huh? Not really...
+I'm just tired
+after all the work.
+
+
+
+// Blue sneakers
+Are these yours?
+
+Nope, they're yours.
+Don't you remember?
+
+I don't recall having sneakers like that.
+
+You do now.
+You can wear them
+when we head outside.
+
+What about clothes?
+All I have in this world
+are the clothes I'm wearing.
+Any way for me to get new ones?
+
+Of course there are.
+Though, I've seen what you wear—
+and honestly, your taste isn't great.
+Either way, I'll help you get some.
+Just not right now.
+It's a promise.
+
+Okay.
+
+
+// Games on TV
+What do you wanna play?
+// Game milk
+This is a fighting game!
+Let's see who sours first!
+What a game!
+We've had enough milk for now, let's do something else.
+// Game penguins
+In this game, you're a penguin
+sliding around.
+Right, that's that game.
+
+// Stay with Mita
+Huh, what?
+You serious? I thought you were...
+I'm overjoyed!
+And a little confused...
+But...
+Please, stay with me—
+always and forever.
+
+
+
+
+
+
+
+
+
+
+
+
+// A game about penguins
+It's super simple:
+just collect snowballs.
+The one who collects more, wins!
+Let's play two rounds, okay?!
+// The first map
+Wow, how did you get that many?
+Tee-hee! II've got the most snowballs!
+Better catch up!
+Ha, 1:1!
+// The second map
+You're a natural penguin!
+We should get you on real ice!
+Pfft, you're so slow.
+Still thinking of the last round?
+Woah, a tie! Now that's rare!
+// The game is over
+Right, wanna play something else?
+Or you're done?
+
+// Tetris - Mita
+What do you need that for?
+That much of a gamer?

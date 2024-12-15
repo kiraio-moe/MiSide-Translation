@@ -1,0 +1,58 @@
+Start the application
+
+Confirm login
+Incorrect login
+Programs
+Back
+
+Virtual Device Manager
+Server Unit Accounting [Select Version]
+Main Processor Monitoring [Select Version]
+Graphical Process Monitoring [Select Version]
+Quadrangle
+End game
+
+
+Advanced System Administration
+Restarting Character [Select Version]
+Restarting Device [Select Version]
+Version Update [Select Version]
+Recalculating Geometry [General]
+
+
+
+
+System Restore
+Troubleshooting [General]
+Antivirus [General]
+Command Console [General]
+
+
+
+
+Advanced Functions
+Delete Object [Select Version]
+Display Camera [Select Version]
+Display Triggers [Select Version]
+Physics Engine Settings [Select Version]
+Get Flash Drive
+
+
+
+Minor Functions
+Binary Code Editor [Special Access]
+Unit Matrix Editor [Special Access]
+
+
+
+
+
+Specify Character Version
+Specify Character Index
+Confirm Reboot
+Use Lever
+Run Subprogram
+Restart process running!
+Preparing For Restart
+Restarting...
+Confirm

@@ -1,0 +1,35 @@
+Scanning required!
+Requirements
+Version
+Bone Quantity
+No entity found. Scanning required!
+Scanning Complete
+
+
+
+
+
+
+
+
+
+
+// Tutorial finish
+Whoo-hoo!
+You did it!
+
+// Tutorial
+So, what am I doing here?
+I need to get to your screen...
+Now...
+So!
+You need to ensure this prototype is the right one.
+First, scan it.
+Now, check the version and bone skeleton.
+Take this prototype's data and compare it to the standard version.
+It's a perfect match! Now, let's check the emotions.
+The specimen successfully shows emotion! Time to test behavior.
+Okay, we've checked everything and it all matches! Now pull the lever up.
+Yay! Now that's the skin on! Pass her the box of clothes.
+That's it! See those lights on top? One of them turned green, which means we did it right!
+Your turn! I'll be back when all the lights turn green. Good luck!

@@ -1,0 +1,87 @@
+
+Hey, you!
+Hi!
+You want to get out?
+Then help me find the key!
+// Key Search
+Shit! The key's gone!
+Nothing here—
+zero, zip, nada!
+Found it!
+
+// The usual conversation
+Huh, I thought you'd be shorter!
+You're tall—
+just like my sister!
+
+Your sister? What about her?
+
+Yes, my sister.
+Don't say you've never met her!
+
+Uh... I've met her... I think?
+
+Are you a fool?
+
+Erm...
+
+Turns out you are...
+Come on, just help me find the key already!
+
+// Next work
+Come.
+Put the iron in the pipe!
+Thank you!
+Now get me that wood!
+Thank you!
+Some more help, please!
+All done! Now...
+wow, that's beautiful.
+Press it, come on!
+Get ready...
+there, take it!
+The key is yours!
+
+
+
+
+
+
+
+
+
+// Quest 1 (Are you Mita?)
+I'm ChibiMita.fbx!
+Tons of lines,
+simplest models, and—
+best of all—gorgeous hair!
+
+// Quest 2 (Have we seen each other yet?)
+Sillyhead!
+You're kinda cute, you know,
+asking silly questions like that.
+Though,
+this is my first time meeting you!
+But listen...
+If you steal my marvelous look,
+I'll make you regret it!
+
+// Quest 3 (Why are you here?)
+Don't you get it?
+This is a checkpoint—
+a test of your wits!
+Now come on!
+I'm here to guide the hopelessly lost!
+
+// Quest 4 (Why are you helping me?)
+What makes you so special?
+Why not help you anyway?
+
+What?
+
+So foolish...
+You just appeared out of nowhere!
+You're not supposed to be here,
+so, I'm helping you!
+
+Bye-bye, silly!

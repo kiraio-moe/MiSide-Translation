@@ -1,0 +1,150 @@
+
+Mita?
+
+How on earth did you get here?
+
+You're Mita, aren't you?
+But there's something different about you...
+
+Observant, I see.
+And you're right.
+I'm not the Mita you met before.
+Be careful, she's up to something
+sinister.
+
+Huh, something sinister?
+
+There's no time to explain:
+if this works out, I'll tell you everything.
+Get the key. It's next to the sofa.
+
+But...
+
+Save your questions for later!
+Give me the key.
+Take this ring.
+Huh?
+You want to get out of here, don't you?
+Uhm, yeah...
+Then put it on.
+It's a useful artifact,
+you'll likely need it soon.
+
+Okay...
+By the way, II'm
+[player].
+
+Mmm,
+[player].
+I'm... Mita.
+
+
+
+
+
+
+
+
+// MitaKind quest 1
+See that
+console? Pick it up.
+
+Are we watching a recording?
+Who's that with her?
+
+That's happening this very moment.
+It's another player.
+She's using him.
+She might try to
+turn you into a cartridge, too.
+
+I need to get out of here ASAP.
+And you too.
+
+Yes, we do.
+
+So, you're saying
+that she's using him.
+If I pull the cartridge out, what happens?
+
+That may very well
+irreversibly damage the cartridge.
+Which means that...
+the player would die.
+
+...
+What if I just turn it off?
+
+That could work...
+It's worth trying. There's a red power button!
+You see it?
+Found it.
+Press it.
+
+// MitaKind quest 2
+I need to stay.
+There are questions I need to ask her
+to find out more about her.
+Though, it's unlikely she'll play ball...
+
+// MitaKind quest 3
+Tell you the truth, this is my version.
+I was keeping a player company,
+when something suddenly changed.
+Then she showed up...
+and turned the player into a cartridge
+and locked me up.
+
+Wait, she turned him into a cartridge?
+Can she even do that?
+But why?
+What does she need the players for?
+
+She's obviously crazy...
+She's just playing with us, and using us for her own machinations!
+Turning players into cartridges...
+Some didn't even realize what was happening to them...
+And some that do, don't even fight back... Gah!
+Now that's a dark twist...
+You have to help us!
+Me? But how?
+I need you!
+If you help us, I'll help you!
+This might be our only chance.
+The ring will lead you to the right version.
+I'll meet you there.
+
+// MitaKind quest 4
+I still don't quite understand
+what I saw up there...
+That Mita...
+Was she trying to kill me?
+
+Kill?
+She has a worse fate than that in mind for you...
+You need to hurry.
+
+// Hide!
+Oh, shit! Hide!
+Wait, what...?
+Hurry, she's coming!
+Following the ring—it'll lead you to safety!
+
+
+Well, well, gonna tell me where he's at?
+
+Why would I?
+You won't kill him, will you?
+
+Ah, so you refuse to tell me.
+Hah, I like a challenge.
+I know he's somewhere around here.
+
+Why are you so mean to us?
+You won't even tell me what's going on!
+Besides...
+what do you need the players for?
+They're no toys!
+What's gotten into you?!
+
+Enough! Keep your mouth shut, doll!
