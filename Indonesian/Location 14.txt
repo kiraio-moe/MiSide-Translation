@@ -1,5 +1,5 @@
 // Snaker
-Defeat!
-Victory!
+Kalah!
+Menang!
 // DontWork
-Stop!
+Berhenti!

@@ -1,58 +1,58 @@
-Start the application
+Mulai aplikasi
 
-Confirm login
-Incorrect login
-Programs
-Back
+Konfirmasi login
+Login salah
+Program
+Kembali
 
-Virtual Device Manager
-Server Unit Accounting [Select Version]
-Main Processor Monitoring [Select Version]
-Graphical Process Monitoring [Select Version]
-Quadrangle
-End game
-
-
-Advanced System Administration
-Restarting Character [Select Version]
-Restarting Device [Select Version]
-Version Update [Select Version]
-Recalculating Geometry [General]
+Manager Perangkat Virtual
+Akuntansi Unit Server [Pilih Versi]
+Pemantauan Prosesor Utama [Pilih Versi]
+Pemantauan Proses Grafis [Pilih Versi]
+Segiempat
+Akhiri game
 
 
-
-
-System Restore
-Troubleshooting [General]
-Antivirus [General]
-Command Console [General]
+Administrasi Sistem Lanjutan
+Memulai Ulang Karakter [Pilih Versi]
+Memulai Ulang Perangkat [Pilih Versi]
+Pembaruan Versi [Pilih Versi]
+Menghitung Ulang Geometri [Umum]
 
 
 
 
-Advanced Functions
-Delete Object [Select Version]
-Display Camera [Select Version]
-Display Triggers [Select Version]
-Physics Engine Settings [Select Version]
-Get Flash Drive
-
-
-
-Minor Functions
-Binary Code Editor [Special Access]
-Unit Matrix Editor [Special Access]
+Pemulihan Sistem
+Pemecahan Masalah [Umum]
+Antivirus [Umum]
+Konsol Perintah [Umum]
 
 
 
 
+Fungsi Lanjutan
+Hapus Objek [Pilih Versi]
+Tampilkan Kamera [Pilih Versi]
+Tampilkan Pemicu [Pilih Versi]
+Pengaturan Mesin Fisika [Pilih Versi]
+Dapatkan Flash Drive
 
-Specify Character Version
-Specify Character Index
-Confirm Reboot
-Use Lever
-Run Subprogram
-Restart process running!
-Preparing For Restart
-Restarting...
-Confirm
+
+
+Fungsi Minor
+Editor Kode Biner [Akses Khusus]
+Editor Matriks Unit [Akses Khusus]
+
+
+
+
+
+Tentukan Versi Karakter
+Tentukan Indeks Karakter
+Konfirmasikan Booting Ulang
+Gunakan Tuas
+Jalankan Subprogram
+Proses restart sedang berjalan!
+Persiapan untuk Restart
+Memulai ulang...
+Konfirmasi

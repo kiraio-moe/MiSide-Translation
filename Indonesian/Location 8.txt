@@ -1,11 +1,11 @@
 // Quest none
-Never mind.
+Tidak apa-apa.
 // Quest
-You're Mita, aren't you?
-What happened to you?
-Become your second friend?
-Is this your home?
-How do I leave this place?
+Kamu Mita, kan?
+Apa yang terjadi padamu?
+Menjadi teman keduamu?
+Apa ini rumahmu?
+Bagaimana cara meninggalkan tempat ini?
 
 // TV
-RELEASED!
+DIRILIS!

@@ -1,38 +1,38 @@
 Mita?
-Ah, awake already?
-How did you get here?
-You were right next to me just now.
+Ah, sudah bangun?
+Bagaimana kamu bisa sampai di sini?
+Kamu tadi ada di sampingku.
 
-No, I wasn't.
-You froze before the mirror.
-So I left.
-Why have the rooms changed?
+Tidak, aku tidak.
+Kau terpaku di depan cermin.
+Jadi aku pergi.
+Kenapa kamarnya berubah?
 
-I rearranged the place
-to make you feel more at home.
-In here,
-we can change the rooms
-however we want.
+Aku menata ulang tempat ini
+agar kamu merasa lebih betah.
+Di sini,
+kita bisa mengubah kamar
+sesuka kita.
 
-You didn't have to.
-I was getting used to the layout.
-Either way, I think you'll feel more at ease with this layout.
+Kau tidak perlu melakukannya.
+Aku mulai terbiasa dengan tata letaknya.
+Apa pun itu, kurasa kamu akan merasa lebih nyaman dengan tata letak ini.
 // Mita card game
-Right,
-shall we play?
-The game works like this:
-This chip indicates a type,
-such as health:
-We each play a card,
-and if your card has a higher
-Health stat
-than mine,
-you win.
-Pick up your cards.
-It's my turn.
-Whoa!
-I got quite the hand!
-I'll go first!
+Baiklah,
+bagaimana kalau kita bermain?
+Permainannya seperti ini:
+Chip ini menunjukkan sebuah tipe,
+contoh nyawa:
+Kita masing-masing memainkan satu kartu,
+dan jika kartumu memiliki
+status Nyawa
+lebih tinggi dariku,
+kamu menang.
+Ambil kartumu.
+Giliranku.
+Wah!
+Aku menang!
+Aku mulai duluan!
 
 
 
@@ -42,30 +42,30 @@ I'll go first!
 
 
 
-OK!
-Your turn!
+Oke!
+Giliranmu!
 Uh-huh.
-Your turn!
+Giliranmu!
 
-Highest health stat wins!
-It's all about attack!
-Just focus on defense!
+Status nyawa tertinggi yang menang!
+Semuanya tentang serangan!
+Fokus saja pada pertahanan!
 
 
-You won!
-You won!
-You got me.
-Oh you...
+Kamu menang!
+Kamu menang!
+Kamu berhasil menangkapku.
+Hah...
 
-I win!
-I'm the winner!
-I won!
-Hah, got ya!
+Aku menang!
+Aku pemenangnya!
+Aku menang!
+Hah, kena kamu!
 
-That's a tie.
-All equal!
-Now that's a draw!
-The same value...
+Seri.
+Semuanya sama!
+Seri!
+Nilainya sama...
 
 
 
@@ -78,291 +78,290 @@ The same value...
 
 
 // The card game is interrupted
-What's that sound?
-It's coming from the wardrobe.
+Suara apa itu?
+Itu berasal dari lemari.
 
-Sound?
-What sound?
-I didn't hear anything.
-What did you think you heard?
+Suara?
+Suara apa?
+Aku tidak mendengar apa pun.
+Menurutmu, apa yang kamu dengar?
 
-Knocking, as if someone's in there.
+Ketukan, seolah ada seseorang di dalam.
 
-But...
-There's no one there...
+Tapi...
+Tidak ada seorang pun di sana...
 
-I'd like to open it and check.
-I'm a bit creeped out.
+Aku akan membuka dan memeriksanya.
+Aku agak takut.
 
-But why...?
-This again...
-
-
+Tapi kenapa...?
+Seperti ini lagi...
 
 
 
 
 
-What's up with you!?
-It's a wardrobe...
-I've got my underwear there...!
 
-Are you hiding something from me?
 
-Why won't you just believe me?
-What am I doing wrong?
-What I want...
-all I want is for you to be with me.
+Ada apa denganmu!?
+Ini lemari pakaianku...
+Celana dalamku ada di sana...!
 
-I'd like that to, but still...?
+Apa kamu menyembunyikan sesuatu dariku?
 
-Why are you so stuck on that wardrobe?!
+Kenapa kamu tidak percaya saja padaku?
+Apa salahku?
+Yang kuinginkan...
+yang kuinginkan hanyalah kamu bersamaku.
 
-I want to know what on earth that knocking was!
+Aku ingin seperti itu, tapi tetap saja...?
 
-Is it because
-this world
-only has these four rooms?
-Isn't that enough for you?
-Why can't you just be with me?
+Kenapa kamu begitu terpaku pada lemari pakaian ini?!
+
+Aku ingin tahu ketukan apa itu!
+
+Apa karena
+dunia ini
+hanya memiliki empat ruangan ini?
+Bukankah itu cukup untukmu?
+Kenaa kamu tidak bisa bersamaku saja?
 
 
 // Don't stay with Mita
-I get it.
-This again...
-If you want to check the wardrobe,
-then do so,
-and find out what's in there!
+Aku mengerti.
+Jadinya seperti ini lagi...
+Kalau kamu ingin memeriksa lemari pakaianku,
+lakukan saja,
+dan cari tahu apa yang ada di sana!
 
 
 
 
-What the...
+Apa yang...
 
-That happens sometimes.
-The room got stuck loading.
-Just wait for a sec.
+Itu kadang terjadi.
+Ruangannya sedang memuat.
+Tunggu saja sebentar.
 
-This is so weird.
-Are we inside someone's phone?
-Maybe a slow one with long loading times?
+Aneh sekali.
+Apa kita ada di dalam ponsel seseorang?
+Mungkin ponsel yang lambat dengan waktu muat yang lama?
 
-Not at all.
-But not everything's perfect
-in this world...
-We're being loaded
-along with the world's core.
+Sama sekali tidak.
+Tapi tidak semuanya sempurna
+di dunia ini...
+Kita sedang dibebani
+bersama inti dunia.
 
-The world's core?
+Inti dunia?
 
-Typical, don't you think?
+Sangat khas, bukan?
 
 
 
-Anyway, we can
-play a console game
-or just cards.
-You choose.
+Pokoknya, kita bisa
+bermain game konsol
+atau kartu.
+Kamu yang pilih.
 
 
 
 // Mita play fight
-Wanna fight?
-You have to win
-four times.
-Bring it on.
-Don't worry, I'll
-go easy on you at first.
+Mau bertarung?
+Kamu harus menang
+empat kali.
+Ayo.
+Jangan khawatir,
+aku akan mengalah padamu pada awalnya.
 
 
-That's a good boy.
-You better focus!
+Bagus, seperti itulah.
+Lebih baik kamu fokus!
 
-Whoa!
-Right, okay.
-I'mma get serious.
+Wah!
+Baiklah, oke.
+Aku akan serius.
 
-Wow!
-Let's see if you can
-beat me now!
+Wah!
+Mari kita lihat apa kamu bisa
+mengalahkanku sekarang!
 
-You are
-simply
-incredible! That's some skill!
-
-
-What's the matter?
-Huh, that's dull.
-
-Well,
-that's it. You believe in fate?
-
-Then,
-get your act together or you'll be a loser forever!
-
-What's the matter with you today?
-I mopped the floor with you.
-You didn't give it your all—
-that's why I won!
+Kamu
+sungguh
+luar biasa! Itu skill yang bagus!
 
 
-All right, then.
-How about we play some cards?
-They're in the bedroom.
+Ada apa?
+Hah, membosankan sekali.
+
+Ya,
+begitulah. Kamu percaya pada takdir?
+
+Kalau begitu,
+perbaiki dirimu atau kamu akan jadi pecundang selamanya!
+
+Ada apa denganmu hari ini?
+Aku mengepel lantai bersamamu.
+Kau tidak sungguh-sungguh—
+Karena itulah aku menang!
+
+
+Baiklah.
+Bagaimana kalau kita main kartu?
+Mereka ada di kamar tidur.
 
 
 
 // Door > [ERROR]
-Huh, what's going on?
-Where's...
+Hah, apa yang terjadi?
+Di mana...
 
 Uh-oh.
-Sorry...
-I downloaded something
-from the net.
-I wanted to spruce up
-the outside a bit.
-But turns out
-there was something wrong with the file.
-I'll fix it later.
+Maaf...
+Aku mengunduh sesuatu
+dari internet.
+Aku ingin sedikit merapikan
+bagian luarnya.
+Tetapi ternyata
+ada yang salah dengan file-nya.
+Aku akan memperbaikinya nanti.
 
-Is that why we can't leave the house?
-Yeah, that's why.
+Apa itu sebabnya kita tidak bisa keluar rumah?
+Yah, itulah sebabnya.
 // Mita shy
-Hey...
-What's the matter with you?
-You want something?
+Hei...
+Ada apa denganmu?
+Kau ingin sesuatu?
 
 
 
 // Wall Clock
-This here clock,
-what time does it show?
-The current time in the game?
-Or is it synced with my phone?
+Jam ini,
+jam berapa yang ditunjukkannya?
+Waktu saat ini dalam permainan?
+Atau jamnya sudah disinkronkan dengan ponselku?
 
-Well, uhm...
-I honestly don't know.
-But time doesn't matter here...
-Whether it's late or early,
-a strong girl like me
-is always full of energy—
-I never get tired!
-We can have eternal spring,
-or a never-ending afternoon!
+Yah, uhm...
+Sejujurnya aku tidak tahu.
+Tapi waktu tidak penting di sini...
+Entah itu larut malam atau pagi,
+gadis kuat sepertiku
+selalu penuh energi—
+Aku tidak pernah lelah!
+Kita bisa menikmati musim semi abadi,
+atau sore yang tak pernah berakhir!
 
-That's interesting...
-but also a bit creepy.
-Stuck in the same moment, forever...
+Menarik...
+tapi juga sedikit menyeramkan.
+Terjebak di momen yang sama, selamanya...
 
 
 
 // Photos of Mita
-Nice pics.
-I'm guessing these are of you?
+Foto yang bagus.
+Ini semua fotomu?
 
-Yep.
-I like them, too.
+Ya.
+Aku juga suka mereka.
 
-Who took them?
-Are there others in this world, too?
+Siapa yang mengambilnya?
+Apa ada orang lain di dunia ini juga?
 
-You could say that.
-I'll introduce you eventually.
-Just not yet.
-For now, I just want to be with you alone.
+Bisa dibilang begitu.
+Nanti aku akan memperkenalkanmu.
+Hanya saja tidak sekarang.
+Untuk saat ini, aku hanya ingin berdua denganmu.
 
 
 
 
 // Portal
-Where did the portal go?
-Or whatever it was you called it?
+Ke mana portal atau apa pun benda itu membawamu?
 
-I used a
-little magic
-and moved it
-somewhere else.
-We don't need it anymore.
-It'd just get in the way.
+Aku menggunakan
+sedikit sihir
+dan memindahkannya
+ke tempat lain.
+Kita sudah tidak membutuhkannya lagi.
+Itu cuma akan mengganggu kita.
 
 
 // Mirror in the bedroom
-Looking into a mirror without
-seeing a reflection—it's creepy.
+Melihat ke cermin
+tanpa melihat bayangannya—itu menyeramkan.
 
-We can turn on reflections
-if you really want to.
-But, do we really need them?
+Kita bisa mengaktifkan refleksi
+kalau kamu menginginkannya.
+Tapi, apa kita benar-benar membutuhkannya?
 
-Of course we do.
-Or... will turning them on have consequences?
+Tentu saja bisa.
+Apa... menyalakannya akan ada konsekuensinya?
 
-Yes.
-We'll stutter and move slower.
-Ever seen a cartoon with low frames per second?
-It'll be like that for us, all the time.
+Tentu.
+Akan terjadi stutter dan kita bergerak lebih lambat.
+Kamu pernah melihat kartun dengan frame per detik yang rendah?
+Itu akan selalu terjadi pada kita.
 
-Got it.
-Then perhaps we better keep reflections turned off...
+Oke.
+Kalau begitu, mungkin lebih baik kita matikan saja refleksinya...
 
-Hey, [player],
-you sure like mirrors, don't you?
-Afraid of seeing a smile on that face of yours?
+Hei, [player],
+kamu suka cermin, ya?
+Takut melihat senyum di wajahmu itu?
 
-Huh? Not really...
-I'm just tired
-after all the work.
+Hah? Tidak juga sih...
+Aku cuma capek
+setelah semua kerjaan.
 
 
 
 // Blue sneakers
-Are these yours?
+Ini punyamu?
 
-Nope, they're yours.
-Don't you remember?
+Tidak, itu milikmu.
+Kau tidak ingat?
 
-I don't recall having sneakers like that.
+Aku tidak ingat memiliki sepatu sneaker seperti itu.
 
-You do now.
-You can wear them
-when we head outside.
+Sekarang kamu sudah memilikinya.
+Kamu bisa memakainya
+saat kita pergi keluar.
 
-What about clothes?
-All I have in this world
-are the clothes I'm wearing.
-Any way for me to get new ones?
+Bagaimana dengan pakaian?
+Yang kumiliki di dunia ini
+cuma pakaian yang kukenakan.
+Ada cara agar aku bisa mendapatkan yang baru?
 
-Of course there are.
-Though, I've seen what you wear—
-and honestly, your taste isn't great.
-Either way, I'll help you get some.
-Just not right now.
-It's a promise.
+Tentu saja ada.
+Aku sudah melihat apa yang kamu kenakan—
+dan sejujurnya, seleramu tidak bagus.
+Bagaimanapun, aku akan membantumu mendapatkannya.
+Hanya saja tidak sekarang.
+Aku janji.
 
-Okay.
+Oke.
 
 
 // Games on TV
-What do you wanna play?
+Kamu ingin bermain apa?
 // Game milk
-This is a fighting game!
-Let's see who sours first!
-What a game!
-We've had enough milk for now, let's do something else.
+Ini game pertarungan!
+Mari kita lihat siapa yang akan menang lebih dulu!
+Sungguh permainan yang seru!
+Kita sudah cukup minum susu untuk saat ini, mari kita lakukan hal lain.
 // Game penguins
-In this game, you're a penguin
-sliding around.
-Right, that's that game.
+Dalam permainan ini, Kamu adalah seekor penguin
+yang sedang meluncur.
+Benar, itulah permainannya.
 
 // Stay with Mita
-Huh, what?
-You serious? I thought you were...
-I'm overjoyed!
-And a little confused...
-But...
-Please, stay with me—
-always and forever.
+Hah, apa?
+Serius? Kupikir kamu...
+Aku sangat gembira!
+Dan sedikit bingung...
+Tapi...
+Kumohon, tetaplah bersamaku—
+selalu dan selamanya.
 
 
 
@@ -376,25 +375,25 @@ always and forever.
 
 
 // A game about penguins
-It's super simple:
-just collect snowballs.
-The one who collects more, wins!
-Let's play two rounds, okay?!
+Caranya sangat mudah:
+kumpulkan saja bola saljunya.
+Siapa yang mengumpulkan paling banyak, menang!
+Ayo main dua ronde, oke?!
 // The first map
-Wow, how did you get that many?
-Tee-hee! II've got the most snowballs!
-Better catch up!
+Wah, bagaimana bisa kamu dapat sebanyak itu?
+Tee-hee! Aku punya bola salju terbanyak!
+Lebih baik mengejar ketertinggalanmu!
 Ha, 1:1!
 // The second map
-You're a natural penguin!
-We should get you on real ice!
-Pfft, you're so slow.
-Still thinking of the last round?
-Woah, a tie! Now that's rare!
+Kamu seekor penguin yang alami!
+Kita harus menempatkanmu di atas es sungguhan!
+Pfft, kamu sangat lambat.
+Masih memikirkan ronde terakhir?
+Wah, seri! Itu langka!
 // The game is over
-Right, wanna play something else?
-Or you're done?
+Oke, mau main yang lain?
+Atau sudah selesai?
 
 // Tetris - Mita
-What do you need that for?
-That much of a gamer?
+Untuk apa kamu membutuhkan itu?
+Kamu seorang gamer sejati?

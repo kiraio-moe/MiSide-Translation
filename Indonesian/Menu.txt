@@ -1,145 +1,145 @@
-New game
-Continue
-Main menu
-Exit
-Settings
-Achievements
-Credits
-Back
-Load
-Language
-Loading...
-Graphics
-Sound
+Game baru
+Lanjutkan
+Menu utama
+Keluar
+Pengaturan
+Pencapaian
+Kredit
+Kembali
+Muat Data
+Bahasa
+Memuat...
+Grafis
+Suara
 Keyboard & mouse
-Controller
-Resolution
-Windowed mode
-Graphic effects
-Color effects
-Soft shadows
+Kontroller
+Resolusi
+Mode window
+Efek grafis
+Efek warna
+Bayangan halus
 Blur
-Glare
+Silau
 Anti-aliasing
-Shadows
-World display quality
-Programming
-Animation
-Sound effects
-Music
-Particles
-Textures
-3D models (98%)
-Script
-Reset
-Forward
-Back
-Left
-Right
-Interaction
-Mouse sensitivity
-Quit the game?
-Yes
-No
-Back to main menu
-Smooth turns
-Game settings
-Shadow style
-Clothes
-Interface
-3D models (2%)
-Game video
-Pause
+Bayangan
+Kualitas tampilan dunia
+Pemrograman
+Animasi
+Efek suara
+Musik
+Partikel
+Tekstur
+Model 3D (98%)
+Skrip
+Atur ulang
+Maju
+Mundur
+Kiri
+Kanan
+Interaksi
+Sensitivitas mouse
+Keluar dari game?
+Ya
+Tidak
+Kembali ke menu utama
+Putar arah halus
+Pengaturan game
+Gaya bayangan
+Pakaian
+Antarmuka
+Model 3D (2%)
+Video dalam game
+Jeda
 Menu
-Congrats! You completed the game!
-Your time:
-Subtitles
-Brightness
-Vertical sync
-Saved
-Characters
-Characters - Mitas
-Characters - Cartridges
-Cartridges
-Mitas
-Start with a clean slate
-Are you sure you want to completely delete all your progress and start from scratch?
-Compiling shaders, estimated wait time: 2 hours.
-2-hour compilation?! That's bogus! We skipped the queue for ya!
-Creating realistic shadow tracing—estimated to take 10 minutes.
-Just kidding, we don't use those fancy things here.
-Umm...
-Oh, we are ready!
-Sway while walking
-Show hints
-Player voice
-Discord
-Added character profile
-Camera angle
-Voice
-Off
-Hand reaches out to the door
-Animation
-Enable player voice
+Selamat! Kamu telah menyelesaikan game ini!
+Waktu kamu:
+Subtitel
+Kecerahan
+Sinkronisasi vertikal
+Tersimpan
+Karakter
+Karakter - Mita
+Karakter - Kartrid
+Kartrid
 Mita
-Short-haired Mita
-Kind Mita
-Cap-wearing Mita
-Tiny Mita
-Sleepy Mita
-2D Mita
+Mulai bersih
+Apa kamu yakin ingin menghapus semua kemajuan kamu dan memulai dari awal?
+Mengompilasi shader, perkiraan waktu tunggu: 2 jam.
+Kompilasi 2 jam?! Itu tidak masuk akal! Kami melewati antrean untukmu!
+Membuat shadow tracing yang realistis—diperkirakan memakan waktu 10 menit.
+Cuma bercanda, kami tidak menggunakan hal-hal mewah seperti itu di sini.
+Umm...
+Oh, kami siap!
+Bergoyang saat berjalan
+Tampilkan petunjuk
+Suara pemain
+Discord
+Profil karakter ditambahkan
+Sudut kamera
+Suara
+Off
+Tangan meraih pintu
+Animasi
+Aktifkan suara pemain
+Mita
+Mita Rambut Pendek
+Mita Baik Hati
+Mita Bertopi
+Mita Mungil
+Mita Ngantuk
+Mita 2D
 Mila
-Creepy Mita
-Core Mita
-Ghostly Mita
-Chibi Mita
-Dummy Mita
+Mita Seram
+Mita Inti
+Mita Hantu
+Mita Chibi
+Mita Bodoh
 
 
 
 // Name load location
-I'm inside a game?
-Together at last
-Things get weird
-The basement
-Beyond the World
-The Loop
-Mini Mita
-Dummies and forgotten puzzles
-She just wants to sleep
-Novels
-Reading books, destroying glitches
-Run and hide!
-Old version
-The real world?
-Reboot
+Aku di dalam game?
+Akhirnya bersama
+Hal-hal menjadi aneh
+Ruang bawah tanah
+Di Luar Dunia
+Pengulangan
+Mita Mini
+Boneka dan teka-teki yang terlupakan
+Dia hanya ingin tidur
+Novel
+Membaca buku, menghancurkan glitch
+Lari dan sembunyi!
+Versi lama
+Dunia nyata?
+Mulai ulang
 
 
 
 
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
-Player 6
-Player 7
-Player 8
-Player 9
-Player 10
+Pemain 1
+Pemain 2
+Pemain 3
+Pemain 4
+Pemain 5
+Pemain 6
+Pemain 7
+Pemain 8
+Pemain 9
+Pemain 10
 
-Peaceful Mode
-This mode is still in development! It's so expansive that the developers haven't managed to finish it yet. But don't worry—they've promised it will be included in a major update coming soon. And look at you, already ahead of the curve by unlocking access! Now all that's left is to wait...
-So, what is Peaceful Mode? It's your chance to reconnect with Mita in a completely different way! She'll be overjoyed to spend more time with you, from morning to night, in a world brimming with fun and surprises. Expect heartfelt one-on-one conversations, sharing cookies, playing games, and plenty of hilarious moments together.
+Mode Damai
+Mode ini masih dalam tahap pengembangan! Mode ini sangat luas sehingga pengembangnya belum berhasil menyelesaikannya. Namun, jangan khawatir—mereka telah berjanji bahwa mode ini akan disertakan dalam pembaruan besar yang akan segera hadir. Dan lihatlah kamu, sudah menjadi yang terdepan dengan membuka akses! Sekarang yang tersisa hanyalah menunggu...
+Jadi, apa itu Mode Damai? Ini adalah kesempatanmu untuk terhubung kembali dengan Mita dengan cara yang sama sekali berbeda! Dia akan sangat senang menghabiskan lebih banyak waktu denganmu, dari pagi hingga malam, di dunia yang penuh dengan kesenangan dan kejutan. Nantikan percakapan satu lawan satu yang menyentuh hati, berbagi kue, bermain game, dan banyak momen lucu bersama.
 
 
 Gore
-Special Thanks:
-Achievement Icon: Iceсloud
-Photograph: Nineko Hori
-Translator
-Converts the game's text into another language.
-Publishing Partner
-Game marketing
-Tester
-Played and found all manner of bugs.
+Ucapan Terima Kasih Khusus:
+Ikon Prestasi: Iceсloud
+Foto: Nineko Hori
+Penerjemah
+Mengonversi teks permainan ke bahasa lain.
+Mitra Penerbitan
+Pemasaran game
+Penguji
+Bermain dan menemukan berbagai macam bug.

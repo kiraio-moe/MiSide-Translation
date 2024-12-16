@@ -1,9 +1,9 @@
 // Player start
-Where am I?
-This place looks familiar.
-Wait... I'm in the game?
+Di mana aku?
+Tempat ini tampak familier.
+Tunggu... Aku ada di dalam game?
 // Player try open the door
-Locked?
+Terkunci?
 // Player in dark
-It's dark in here.
-I can't see anything.
+Di sini gelap.
+Aku tidak bisa melihat apa pun.

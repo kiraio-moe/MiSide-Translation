@@ -1,19 +1,19 @@
 // Track names
-Cracker
-Bubble drink
-Balloon
+Kerupuk
+Minuman bersoda
+Tidak apa-apa.
 // Quest none
 Never mind.
 // Quest "Meeting Kind Mita"
-Should I trust you?
-How did I get here?
-What is this place?
-How did you get here?
-What did you do with the ring?
-Are the passages dangerous?
-Will you help me escape?
-You mentioned a plan.
+Haruskah aku percaya padamu?
+Bagaimana aku bisa sampai di sini?
+Tempat apa ini?
+Bagaimana kamu bisa sampai di sini?
+Apa yang kamu lakukan dengan cincin itu?
+Apa lorong-lorongnya berbahaya?
+Kamu mau membantuku melarikan diri?
+Kamu menyebutkan sebuah rencana.
 // Quest MitaCap
-Do you remember anything?
-What do you think of the ring-bearing Mita?
-Do you always wear that cap?
+Apa kau ingat sesuatu?
+Apa pendapatmu tentang Mita yang memakai cincin itu?
+Apa kamu selalu memakai topi itu?

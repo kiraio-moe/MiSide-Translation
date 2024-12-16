@@ -1,9 +1,9 @@
-Drawlit
-Cards
-Open the door
-2D Mita
+Gambar yang menyala
+Kartu
+Buka pintunya
+Mita 2D
 // Quest
-Never mind.
-Is your eyesight bad?
-What about another name?
-It's evening outside.
+Tidak apa-apa.
+Apa penglihatanmu buruk?
+Bagaimana dengan nama lainnya?
+Di luar sudah malam.

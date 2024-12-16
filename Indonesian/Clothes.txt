@@ -1,5 +1,5 @@
-New clothes available!
-Not available
+Pakaian baru tersedia!
+Tidak tersedia
 
 
 
@@ -7,7 +7,7 @@ Not available
 
 
 
-Default
-School
-Vampire
-Christmas
+Bawaan
+Sekolah
+Vampir
+Natal

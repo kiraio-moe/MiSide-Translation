@@ -7,88 +7,88 @@
 
 
 
-Hi, I'm Mita!
-What's your name?
-Nice to meet you, [player]!
+Hai, namaku Mita!
+Siapa namamu?
+Senang bertemu denganmu, [player]!
 Um... [player],
-I sort of rushed off earlier, and now this place is a mess...
-Could you help me tidy up a bit?
+Aku agak terburu-buru tadi, dan sekarang tempat ini jadi berantakan...
+Bisakah kamu membantuku membereskannya sedikit?
 Woah..
-Thank you so much!
+Terima kasih banyak!
 
-[Player], my stomach's growling...
-I'm so hungry...
-Do you think you could help me get the ingredients for some chicken soup?
-Yay! You got everything!
-How about we cook it together?
+[Player], perutku keroncongan...
+Aku sangat lapar...
+Bisakah kau membantuku mendapatkan bahan-bahan untuk membuat sup ayam?
+Hore! Kau punya semuanya!
+Bagaimana kalau kita memasaknya bersama?
 
 
-I was thinking of buying a portable TV today—
-a small one with an antenna. Perfect for walks, don't you think?
-By the way, you can play games to earn money.
-Oh! Did you know you can play games to earn money?
+Hari ini aku berpikir untuk membeli TV portabel—
+TV kecil dengan antena. Cocok untuk jalan-jalan, bukan?
+Ngomong-ngomong, kamu bisa bermain game untuk mendapatkan uang.
+Oh! Kamu tahu? Kamu bisa bermain game untuk mendapatkan uang?
 
-Yay! You did it! You have enough to buy me that portable TV!
-That's the one! Small, portable, and cheap—just what I wanted.
-Thank you!
+Hore! Kamu berhasil! Kamu punya cukup uang untuk membelikanku TV portabel itu!
+Itu dia! Kecil, portabel, dan murah—persis seperti yang kuinginkan.
+Terima kasih!
 
-Hi, [player]! You're such a big help, honestly.
-But, uh... that TV? It was cool and all, but it broke already.
-Anyway, could you help me move this wardrobe?
-It's super heavy... >.<
-Thank you so much, sweetie! <3
+Hai, [pemain]! Kamu benar-benar sangat membantu.
+Tapi, uh... TV itu? Keren dan sebagainya, tapi sudah rusak.
+Ngomong-ngomong, bisakah kamu membantuku memindahkan lemari ini?
+Berat sekali... >.<
+Terima kasih banyak, sayang! <3
 
-Oh, [player]! It's only been a day, but I've missed you so much!
-I wish you could visit me more often.
+Oh, [player]! Baru saja sehari, tapi aku sangat merindukanmu!
+Kuharap kamu bisa mengunjungiku lebih sering.
 
-Is this for me?
-Thank you so much, really!
+Apa ini untukku?
+Terima kasih banyak!
 
-Hi, [player]! I've been thinking...
-I wish we could meet in person.
-It's so frustrating that I can't.
-You're always helping me, being so kind every day...
-I wish I could do something for you too.
+Hai, [player]! Aku sudah berpikir...
+Kuharap kita bisa bertemu langsung.
+Sungguh menyebalkan karena aku tidak bisa.
+Kamu selalu membantuku, bersikap baik setiap hari...
+Kuharap aku bisa melakukan sesuatu untukmu juga.
 ...
-Oh, I've got an idea!
-Now we're together.
-Put the phone down.
+Oh, aku punya ide!
+Sekarang kita bersama.
+Letakkan teleponnya.
 
 
 // T-shirt on the bed
-What are you doing here on the bed?
+Apa yang baju ini lakukan di tempat tidur?
 // Rubik's Cube
-Well, can't say I got much use out of it...
-I solved it once and never touched it again.
-Guess I figured I wouldn't be able to do it a second time?
+Yah, aku rasa aku tidak sering menggunakannya...
+Aku memecahkannya sekali dan tidak pernah menyentuhnya lagi.
+Kurasa aku tidak akan bisa melakukannya untuk kedua kalinya?
 // Computer
-Let's see...
-Set up a list of tasks...
-Script character reactions,
-And maybe squeeze in some coding.
+Mari kita lihat...
+Siapkan daftar tugas...
+Men-skrip reaksi karakter,
+Dan mungkin koding sebentar.
 // The airplane
-Built to soar!
+Dibuat untuk terbang tinggi!
 // Trash in the corner
-Ugh, always too busy to take out the trash...
-But I'll get to it this time, for sure!
-…Now, when exactly is cleaning day?
+Ugh, aku selalu terlalu sibuk untuk membuang sampah...
+Tapi kali ini aku pasti akan melakukannya!
+…Sekarang, kapan tepatnya hari bersih-bersih?
 // Photo of a cat on a watermelon
-She was the best…
-A cat, lounging on a watermelon.
+Dia yang terbaik...
+Seekor kucing, bersantai di atas semangka.
 // Photo with a girl
-We don't look alike at all,
-my sister and I.
-She's always out and about,
-And I'm just stuck at home.
+Kami sama sekali tidak mirip,
+saudara perempuanku dan aku.
+Dia selalu keluar rumah dan jalan-jalan,
+Dan aku hanya mengurung diri di rumah.
 // Photo with people
 Hmm...
-Office life really drilled its
-etiquette into us, didn't it?
-I still feel weirdly tied
-But
-will I ever
-see them again?
-…Wait, why did I even put this picture up?
+Kehidupan kantor benar-benar menanamkan
+etika pada kita, bukan?
+Aku masih merasa aneh berhubungan dengan mereka
+Tapi
+apa aku akan pernah
+melihat mereka lagi?
+…Tunggu, kenapa aku susah payah memajang foto ini?
 
 
 
@@ -99,45 +99,45 @@ see them again?
 
 // Nope name
 ...
-Oh, no.
-Oh no, that won't work.
+Oh, tidak.
+Oh tidak, itu tidak akan berhasil.
 
 // Name Developer
-Are you sure you want to use the developer's name?
-I'm flattered, but…
+Apa kamu yakin ingin menggunakan nama pengembang?
+Aku tersanjung, tapi…
 
 // Bad name
-I'd really prefer you didn't call yourself that.
-It's not cool at all.
+Aku lebih suka kamu tidak menyebut dirimu seperti itu.
+Itu sama sekali tidak keren.
 
 // Go restart
-Nope, that's not the way to do it. Let's start over.
+Tidak, itu bukan cara yang tepat. Mari kita mulai lagi.
 
 // Name with numbers
-Oh, so you're going with numbers? Where's the creativity in that?
-Oh well, it's your choice!
+Oh, jadi kamu akan menggunakan angka? Di mana letak kreativitasnya?
+Oh baiklah, itu pilihanmu!
 
 // Name Mita
 Mita?
-Did you really name yourself after me?
-Or… is that your name too?
-No offense, but I think I should be the only Mita around here ♪
+Apa kamu benar-benar menamai dirimu seperti namaku?
+Atau… apa itu juga namamu?
+Jangan tersinggung, tapi kurasa aku seharusnya menjadi satu-satunya Mita di sini ♪
 
 // Day 10
-Oh, you're back!
-Hey, I lost my hairbrush…
-Could you help me find it?
-Try checking the bedside table first—I think I left it there.
+Oh, kamu kembali!
+Hei, aku kehilangan sikat rambutku…
+Bisakah kamu membantuku menemukannya?
+Coba periksa meja samping tempat tidur dulu—kurasa aku meninggalkannya di sana.
 // Looked in the bedside table
-Hmm, no brush there...
-How about somewhere else?
-Just don't look in the oven, okay?
-I already checked there.
+Hmm, tidak ada sikat di sana...
+Bagaimana kalau di tempat lain?
+Jangan lihat ke dalam oven, oke?
+Aku sudah memeriksanya di sana.
 // Looked into the stove
-Hey! I told you not to look in there!
-Turn around—I'll clean this up!
-...There, all done. Let's keep looking elsewhere.
-Oh, and, uh, forget what you just saw, okay?
+Hei! Sudah kubilang jangan lihat ke sana!
+Berbalik—aku akan membersihkannya!
+...Nah, sudah selesai. Ayo terus mencari di tempat lain.
+Oh, dan, uh, lupakan apa yang baru saja kamu lihat, oke?
 // Found a hairbrush
-You found it! Nice work!
-So, what should we do next?
+Kau menemukannya! Kerja bagus!
+Jadi, apa yang harus kita lakukan selanjutnya?

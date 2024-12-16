@@ -1,53 +1,53 @@
-Shop
-Categories
-Food
-Furniture
-Room
-Clothes
-Toys
-Upgrades
-Soup
+Toko
+Kategori
+Makanan
+Perabotan
+Kamar
+Pakaian
+Mainan
+Peningkatan
+Sup
 Salad
-Snack
-Drinks
-Table
-Bed
+Camilan
+Minuman
+Meja
+Tempat tidur
 TV
-Chair
+Kursi
 
-Day
+Hari
 
-Back
-You bought
-Chicken soup ingredients
-
-
+Kembali
+Kamu membeli
+Bahan sup ayam
 
 
 
-Presents
 
-Mini-games
-Energy
-Electronics
-Processing
+
+Mempersembahkan
+
+Mini-game
+Energi
+Elektronik
+Pemrosesan
 Platforming
-Games
+Game
 
-(1) new message
-Check this new version! You'll love it!
-Attachment
+(1) pesan baru
+Lihat versi baru ini! Kamu akan menyukainya!
+Lampiran
 
-Friend: M.K.
+Teman: M.K.
 
-DAY [0]
-
-
+HARI [0]
 
 
 
 
-Tutorial: Would you like me to teach you the ropes?
-Look around.
-Move around.
-Interact.
+
+
+Tutorial: Apa kamu ingin aku mengajarimu cara bermain?
+Lihat sekeliling.
+Bergerak.
+Berinteraksi.

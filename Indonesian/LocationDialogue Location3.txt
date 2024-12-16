@@ -1,437 +1,436 @@
 
-Hello, [player]!
-We finally meet!
-I'm so excited!
-I know you have questions...
-Well, as you can see,
-I made this special device
-to bring you here to my side.
-But you ended up in another version of the game...
-In which I...
-But that's a long story!
-Anyway, I'm just happy to see you!
+Halo, [player]!
+Akhirnya kita bertemu!
+Aku sangat gembira!
+Aku tahu kamu punya pertanyaan...
+Tapi, seperti yang kamu lihat,
+Aku membuat perangkat khusus ini
+untuk membawamu ke sini, ke sisiku.
+Tapi kamu berakhir di versi game yang lain...
+Yang di mana aku...
+Tapi itu cerita yang panjang!
+Pokoknya, aku senang bertemu denganmu!
 
 // Answer 1 - Mita
-I am.
-And you must be [player], right?
+Ya, aku Mita.
+Dan kamu pasti [player], kan?
 
 // Answer 2 - Mita
-Go back already?
-I guess I could help you with that... But what about me?
-Please, stay with me for a while...
+Sudah mau pulang?
+Aku rasa aku bisa membantumu untuk itu... Tapi bagaimana denganku?
+Tolong, tetap bersamaku untuk sementara waktu...
 
 // Answer 3 - Mita
-Let me explain...
-And here you are!
-Got it?
-Uhm... not really.
-That's fine!
-What's important is that we're together now.
+Akan aku jelaskan...
+Dan begitulah kamu di sini!
+Paham?
+Umm... tidak juga.
+Tidak apa-apa!
+Yang terpenting sekarang kita bersama.
 
 
-Are you hungry?
-How about we cook something up?
-Here,
-help me with these carrots.
+Apa kamu lapar?
+Bagaimana kalau kita masak sesuatu?
+Di sini,
+bantu aku dengan wortel-wortel ini.
 
-Where did the vegetables come from?
-They weren't here just now.
+Darimana sayuran ini berasal?
+Mereka tidak ada di sini tadi.
 
-[player], we're in a game.
-Come on, give me a hand.
+[player], kita berada dalam game.
+Ayo, bantu aku.
 
-Thanks!
-Can you grab the scissors?
-They're in the bathroom.
+Terima kasih!
+Bisakah kamu mengambil gunting?
+Mereka ada di dalam kamar mandi.
 
-Now, have a seat.
+Sekarang, silahkan duduk.
 
 
 // Kitchen
-Would you like some sauce?
+Mau saus?
 
-No thanks.
+Tidak terima kasih.
 
-That's a shame.
-Sauce really enhances the flavor!
+Sayang sekali.
+Saus benar-benar meningkatkan rasa!
 
 
-Thank you.
+Terima kasih.
 
-Finished it all already?
-Huh, my portion feels
-endless...
+Sudah menghabiskan semuanya?
+Huh, porsiku terasa
+tak ada habisnya...
 
 
 // Help
-What's wrong?
-Tell me what you see and feel.
+Ada apa?
+Katakan apa yang kamu lihat dan rasakan.
 
-My heart's racing,
-and my vision's blurring.
+Jantungku berdebar kencang,
+dan pandanganku kabur.
 
-Right.
-I think I know what's wrong.
-Can you stand up?
-
-
-
-What are these?
-
-Pills.
-They'll make you feel better soon.
-Go to the mirror.
-
-Take the pills.
-Come on now.
+Benar.
+Kurasa aku tahu apa yang salah.
+Bisakah kamu berdiri?
 
 
 
-How are you feeling?
-Any better?
+Apa ini?
 
-Yes.
-That worked fast...
+Pil.
+Itu akan membuatmu merasa lebih baik segera.
+Pergi ke cermin.
 
-[player], we're in a game.
-Things are much simpler here.
-Even the smallest effort
-gives great results.
-It's all part of the game concept:
-Simplification.
-
-An example, please?
-
-Well, take carrots.
-You cut one,
-but it's as if you cut three.
-
-Look, this is all very sudden.
-I'm scared, more than a little.
+Minum pilnya.
+Ayo cepetan.
 
 
-What's the matter?
 
-I found cartridges in the air vent.
-They had names on them.
-What's the deal with that?
+Bagaimana perasaanmu?
+Lebih baik?
 
-Cartridges?
-What cartridges?
-Let's figure that out together.
-But later.
-Right now, we've got to eat.
-Pass me the scissors, please.
+Ya.
+Obatnya bekerja dengan cepat...
+
+[player], kita berada dalam game.
+Segalanya jauh lebih sederhana di sini.
+Bahkan usaha terkecil pun
+memberikan hasil yang luar biasa.
+Ini semua bagian dari konsep game:
+Penyederhanaan.
+
+Contohnya?
+
+Yah, contoh wortel.
+Kamu memotong satu,
+tapi rasanya seperti memotong tiga.
+
+Lihat, ini semua sangat tiba-tiba.
+Aku takut, lebih dari sekadar takut.
+
+
+Ada apa?
+
+Aku menemukan kartrid di ventilasi udara.
+Tertulis sebuah nama di sana.
+Apa maksudnya itu?
+
+Kartrid?
+Kartrid apa?
+Ayo kita cari tahu bersama.
+Tapi nanti saja.
+Sekarang, kita harus makan.
+Tolong berikan aku guntingnya.
 
 // Ring
-A ring?
+Cincin?
 // Mirror
-How come there's no reflection?
+Kenapa di sini tidak ada pantulan?
 
-Oh, right!
-I forgot to turn on reflections.
-There we go.
-Reflections are back!
-By the way,
-I honestly didn't even know what reflections were before.
-They didn't exist in my world—
-not until some update, that is. :)
-Are there lots of reflections
-in your world?
+Oh, benar!
+Aku lupa mengaktifkan pantulan.
+Nah, ini dia.
+Pantulannya kembali lagi!
+Ngomong-ngomong,
+Jujur saja aku bahkan tidak tahu apa itu pantulan sebelumnya.
+Mereka tidak ada di duniaku—
+sampai ada pembaruan, tentu saja. :)
+Apa ada banyak pantulan
+di duniamu?
 
-Well, yeah.
+Ya, tentu saja.
 
 
-Do you recall
-the three objects you found?
-The ones you placed on the scanner?
-Well, um...
-Those objects
-are tied to this version of the world.
-That's why you’re here now.
+Apa kamu ingat
+tiga objek yang kamu temukan?
+Yang kamu taruh di pemindai?
+Yah, um...
+Objek-objek itu
+terikat dengan versi dunia ini.
+Itu sebabnya kamu ada di sini sekarang.
 
 // Movbile TV
-That's the portable TV
-I bought you.
+Itu TV portabel
+Aku membelinya untukmu.
 
-Yep!
+Ya!
 
-You told me
-it was broken.
+Kamu bilang
+itu rusak.
 
-Well, I wanted to
-surprise you!
-I told a little white lie
-to get you here, into my world.
-It works now—displays information!
-Oh, and by the way…
-I'm a bit of an engineer!
+Yah, aku ingin
+mengejutkanmu!
+Aku berbohong sedikit
+untuk membawamu ke sini, ke duniaku.
+Sekarang sudah berfungsi—menampilkan informasi!
+Oh, dan omong-omong...
+Aku bisa sedikit seperti insinyur!
 
 // School cloth
-What's this?
-A school uniform?
-Why would you need that?
-Do you actually go to school?
+Apa ini?
+Seragam sekolah?
+Kenapa kamu butuh itu?
+Apa kamu benar-benar bersekolah?
 
-Go to school?
-Not at all.
-But I love the uniform
-Don't you think I look cute
-in it?
+Pergi sekolah?
+Tidak sama sekali.
+Tapi aku suka seragamnya
+Tidakkah menurutmu aku terlihat imut
+mengenakannya?
 
 // PC
-Does the computer work?
-Or is it just desk decoration?
+Apa komputernya berfungsi?
+Atau hanya hiasan meja?
 
-Of course it works.
-Everything here
-works exactly like in your world.
+Tentu saja berfungsi.
+Semua yang ada di sini
+berfungsi persis seperti di duniamu.
 
-Back in my world,
-I sit at my computer a lot...
-And work hard.
+Di duniaku,
+aku sering duduk di depan komputer...
+Dan bekerja keras.
 
-I know.
-It's because of your job
-that you've paid me
-so little attention.
+Aku tahu.
+Karena pekerjaanmu
+kamu kurang memperhatikanku.
 
-Gotta make a living, you know.
-Though… how do you know I sit at my computer a lot?
+Aku harus mencari nafkah tahu.
+Meski begitu... bagaimana kamu tahu aku sering duduk di depan komputer?
 
-Your phone's camera... it's on sometimes.
-I'm sorry.
-I've been watching you in secret >A<
+Kamera ponselmu... kadang-kadang menyala.
+Maaf.
+Aku diam-diam memperhatikanmu >A<
 
-Uhm… that's not entirely proper.
-But whatever.
+Uhm... itu sedikit tidak sopan.
+Tapi terserahlah.
 
 // Umbrella
-I've played a ton
-but I've never seen it rain here.
-Why have an umbrella?
+Aku sering memainkannya
+tapi aku belum pernah melihat hujan di sini.
+Buat apa punya payung?
 
-It rains—just very rarely.
-You just haven't seen it yet.
-Maybe on day you will.
-And then you'll need an umbrella.
-Don't you think?
+Di sini hujan—tapi sangat jarang.
+Kamu cuma belum melihatnya.
+Mungkin suatu hari nanti kamu akan melihatnya.
+Dan kemudian kamu akan butuh payung.
+Bukankah begitu?
 
 // Electrical panel
-Why is there an electrical panel here?
-And if we're in a game,
-what's it for?
+Kenapa ada panel listrik di sini?
+Dan jika kita sedang di dalam game,
+untuk apa ini?
 
-Firstly,
-we're in a game.
-So asking 'Why' is...
-pointless.
-However, it does
-restart the electricity.
-Everything here is made based
-on your world.
+Pertama,
+kita sedang di dalam game.
+Jadi bertanya 'Kenapa' itu...
+tidak ada gunanya.
+Namun, ini tetap bisa
+memulai ulang listrik.
+Semua yang ada di sini dibuat berdasarkan
+duniamu.
 
 // Exit door
-Can we go outside?
+Bisakah kita keluar?
 
-Well...
-Not yet.
-Perhaps later.
-Let's stay here for now.
-Here at home.
+Yah...
+Belum bisa.
+Mungkin nanti.
+Ayo kita tinggal di sini untuk saat ini.
+Di sini, di rumah.
 
 // Books
-You've got a ton of books here.
-Have you read them all?
+Kamu punya banyak buku di sini.
+Kamu sudah membaca semuanya?
 
-I have, every single one.
-Being here alone
-is really, really boring.
+Aku sudah membaca, semuanya.
+Berada di sini sendirian
+sangat, sangat membosankan.
 
 // TV in room kitchen
-Why get a second TV?
-And an old one, at that?
+Kenapa harus beli TV kedua?
+Sedangkan yang lama masih ada?
 
-You don't like it?
-I can take it away...
-But to answer...
-It's for decoration,
-to lighten up the kitchen.
-But it works, too!
-I can watch all the
-classic shows!
+Kamu tidak menyukainya?
+Aku bisa membawanya...
+Tapi untuk menjawab...
+Itu untuk dekorasi,
+untuk mencerahkan dapur.
+Tapi ini juga berfungsi!
+Aku bisa menonton semua
+acara klasik!
 
 // Smartphone
-That's my phone.
-And it's no longer in my pocket.
-How on earth did it end up here?
+Itu ponselku.
+Dan itu tidak ada lagi di sakuku.
+Bagaimana bisa itu berakhir di sini?
 
-Uhm, that's not important.
-Hey, I've got an idea!
-Let's take a photo!
-Smile!
-That's a great picture!
-A keepsake for you.
+Umm, itu tidak penting.
+Hei, aku punya ide!
+Ayo kita foto!
+Senyum!
+Itu foto yang bagus!
+Sebuah kenang-kenangan untukmu.
 
-I've got a question.
-If I
-run a game on it,
-will I see you there?
+Aku punya pertanyaan.
+Kalau aku
+menjalankan game di sini,
+apa aku akan melihatmu di sini?
 
-No, it doesn't work that way.
+Tidak, tidak seperti itu cara kerjanya.
 
-Cool Juice
-Strong JUICE!!!
+Jus Keren
+JUS kuat!!!
 // TV
-How many channels
-do you have?
+Berapa banyak saluran
+yang kamu punya?
 
-It doesn't work like that.
-It's connected to the Internet.
-So you can watch anything,
-at least anything that's available on the web.
-Hold on.
-Err, oops.
-What's that?
-A circle of kittens?
-Oh, look.
-You know what?
+Tidak seperti itu cara kerjanya.
+Ini terhubung ke Internet.
+Jadi kamu bisa menonton apa saja,
+setidaknya apa saja yang tersedia di web.
+Tunggu sebentar.
+Eh, oops.
+Apa itu?
+Sekelompok anak kucing?
+Oh, lihat.
+Kamu tahu?
 Pause!
-Want some juice?
+Mau jus?
 
-Such peculiar ads...
-Dead juice?
+Iklan yang aneh...
+Jus mati?
 
-Yeah, and this juice
-is straight from the juice ad.
+Ya, dan jus ini
+langsung dari iklan jus.
 
 
-Ah, the taste...
-I like it,
-and yet, I can't tell what it tastes like.
-It's all very confusing.
+Ah, rasanya...
+Aku suka,
+tapi, aku tidak tahu seperti apa rasanya.
+Semuanya sangat membingungkan.
 
-Right.
+Begitulah.
 
 // Mita shy
-What are you doing?
-Don't stare, please.
-You're making me embarrassed.
+Apa yang kamu lakukan?
+Jangan menatapku, kumohon.
+Kamu membuatku malu.
 
 // The statuette
-That's one creepy figurine.
-Do you
-like such things?
+Itu patung yang menyeramkan.
+Apa kamu
+suka hal-hal seperti itu?
 
-You find it spooky?
+Kamu menganggapnya seram?
 
-Yeah.
-Almost looks like its cursed...
+Yah.
+Hampir terlihat seperti dikutuk...
 
-Nope, definitely not cursed.
-And not creepy either.
-I find it rather cute!
+Tidak, jelas tidak dikutuk.
+Dan juga tidak menyeramkan.
+Menurutku itu agak lucu!
 
-Maybe you're right...
+Mungkin kamu benar...
 
 Mita?
-What's happening?
+Apa yang terjadi?
 // Mita kitchen
-How about a chat
-before we dig in?
+Bagaimana kalau mengobrol
+sebelum kita memakannya?
 
 // Start Eat
-Bon appétit.
+Selamat makan.
 
 // Quest 1
-It is, isn't it?
-You can stay.
-I don't mind at all.
-Actually, I'm
-ALL FOR IT!
+Benar, bukan?
+Kamu boleh tinggal.
+Aku tidak keberatan sama sekali.
+Sebenarnya, aku
+SANGAT SETUJU!
 
 // Quest 2
-You want to go back?
-But why?
-It's so warm here...
-And cozy, too.
-Plus, I'm here.
+Kau ingin kembali?
+Tapi kenapa?
+Di sini sangat hangat...
+Dan juga nyaman.
+Ditambah lagi, aku di sini.
 
-No, you misunderstand.
-I'd love to stay.
-I'm just... worried.
-Worried I forgot something at home...
-I arrived here out of the blue
-and didn't have time
-to prepare.
+Tidak, kamu salah paham.
+Aku ingin tinggal.
+Aku hanya... khawatir.
+Khawatir aku lupa sesuatu di rumah...
+Aku tiba di sini secara tiba-tiba
+dan tidak punya waktu
+untuk bersiap.
 
-Oh... sorry. I didn't think that far.
+Oh... maaf. Aku tidak berpikir sejauh itu.
 // Quest 3
-A dream? So you want to escape?
-And forget this ever happened?
+Mimpi? Jadi kau ingin melarikan diri?
+Dan melupakan kejadian ini?
 
-No, that's not it.
-This place just feels...
-strange. Unnatural.
-But you...
-you seem so real.
+Tidak, bukan itu.
+Tempat ini terasa...
+aneh. Tidak alami.
+Tapi kamu...
+kamu tampak begitu nyata.
 
-I seem real?
-I'm VERY real,
-you sillyhead!
+Aku tampak nyata?
+Aku SANGAT nyata,
+dasar bodoh!
 
 // Quest 4
-That's just how it is
-in this world.
-You might find it strange
-that you can't see things
-in the far distance.
+Begitulah adanya
+di dunia ini.
+Kamu mungkin merasa aneh
+bahwa kamu tidak dapat melihat sesuatu
+di kejauhan.
 
-It didn't strike me as that odd.
-Honestly, it looks classy.
+Itu tidak membuatku merasa aneh.
+Sejujurnya, itu terlihat berkelas.
 
-Yeah, I think so too.
-It's to avoid lag, you know.
+Yah, kupikir juga begitu.
+Itu untuk menghindari lag tahu.
 
-Avoid lag?
+Menghindari lag?
 
-Yep! There are still a few unsquished bugs.
-Let's just hope you don't run into any.
+Ya! Masih ada beberapa bug yang belum teratasi.
+Semoga saja kamu tidak mengalaminya.
 
 // Quest 5
-Scissors or a knife, huh?
-I could've used a knife to cut open the sauce packet.
-But I wanted everything
-to be perfect
-when you got back.
-I love surprising you.
-And it didn't even take me that long!
+Gunting atau pisau, ya?
+Aku bisa saja menggunakan pisau untuk memotong bungkus saus.
+Tapi aku ingin semuanya
+sempurna
+saat kamu kembali.
+Aku suka mengejutkanmu.
+Dan itu bahkan tidak memakan waktu selama itu!
 Tee-hee.
 
 // Glasses
-Do you wear glasses?
+Kamu memakai kacamata?
 
-Not really.
-But I can, if you like.
-Do they look good on me?
+Tidak juga.
+Tapi aku bisa, kalau kamu suka.
+Apa kacamata itu cocok untukku?
 // Yes
-There we go!
-I'll keep them on.
+Nah, itu dia!
+Aku akan tetap memakainya.
 // No
-Well...
-Whatever...
+Yah...
+Terserah...
 
 // Use the sauce
-All right,
-what kind of sauce is this?
+Baiklah,
+saus jenis apa ini?
 
-It's love sauce!
-Chock-full of love!
-And… a contrasting view of the world.
-Unusual, don't you think?
+Ini saus cinta!
+Penuh dengan cinta!
+Dan... pandangan dunia yang kontras.
+Tidak biasa, bukan?
 
-Indeed...
+Memang...
 
 // Tetris - Mita
-Is that your console?
-It looks so cool.
+Apa itu konsolmu?
+Kelihatannya keren sekali.

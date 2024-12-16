@@ -1,42 +1,42 @@
 
 Mita?
 
-How on earth did you get here?
+Bagaimana kamu bisa sampai di sini?
 
-You're Mita, aren't you?
-But there's something different about you...
+Kamu Mita, kan?
+Tapi ada yang berbeda dari dirimu...
 
-Observant, I see.
-And you're right.
-I'm not the Mita you met before.
-Be careful, she's up to something
-sinister.
+Orang yang jeli, aku mengerti.
+Dan kau benar.
+Aku bukan Mita yang kau temui sebelumnya.
+Hati-hati, dia sedang merencanakan sesuatu
+yang jahat.
 
-Huh, something sinister?
+Hah, sesuatu yang jahat?
 
-There's no time to explain:
-if this works out, I'll tell you everything.
-Get the key. It's next to the sofa.
+Tidak ada waktu untuk menjelaskan:
+kalau ini berhasil, aku akan ceritakan semuanya.
+Ambil kuncinya. Kuncinya ada di samping sofa.
 
-But...
+Tapi...
 
-Save your questions for later!
-Give me the key.
-Take this ring.
-Huh?
-You want to get out of here, don't you?
-Uhm, yeah...
-Then put it on.
-It's a useful artifact,
-you'll likely need it soon.
+Simpan pertanyaanmu untuk nanti!
+Berikan aku kuncinya.
+Ambil cincin ini.
+Hah?
+Kau ingin keluar dari sini, bukan?
+Umm, ya...
+Kalau begitu pakai saja.
+Itu artefak yang berguna,
+kamu mungkin akan segera membutuhkannya.
 
-Okay...
-By the way, II'm
+Oke...
+Ngomong-ngomong, aku
 [player].
 
 Mmm,
 [player].
-I'm... Mita.
+Aku... Mita.
 
 
 
@@ -46,105 +46,105 @@ I'm... Mita.
 
 
 // MitaKind quest 1
-See that
-console? Pick it up.
+Lihat konsol itu?
+Ambil itu.
 
-Are we watching a recording?
-Who's that with her?
+Apa kita sedang menonton rekaman?
+Siapa yang bersamanya?
 
-That's happening this very moment.
-It's another player.
-She's using him.
-She might try to
-turn you into a cartridge, too.
+Rekaman itu sedang terjadi saat ini.
+Itu adalah pemain lain.
+Dia memanfaatkannya.
+Dia mungkin mencoba
+mengubahmu menjadi katrid juga.
 
-I need to get out of here ASAP.
-And you too.
+Aku harus keluar dari sini secepatnya.
+Dan kamu juga.
 
-Yes, we do.
+Ya, kita akan keluar bersama.
 
-So, you're saying
-that she's using him.
-If I pull the cartridge out, what happens?
+Jadi, kamu mengatakan
+kalau dia memanfaatkannya.
+Bagaimana kalau aku mencabut kartridnya, apa yang terjadi?
 
-That may very well
-irreversibly damage the cartridge.
-Which means that...
-the player would die.
+Itu mungkin akan
+merusak kartrid secara permanen.
+Yang berarti...
+pemainnya akan mati.
 
 ...
-What if I just turn it off?
+Bagaimana kalau aku mematikannya saja?
 
-That could work...
-It's worth trying. There's a red power button!
-You see it?
-Found it.
-Press it.
+Itu bisa berhasil...
+Layak dicoba. Ada tombol daya berwarna merah!
+Kamu melihatnya?
+Ketemu.
+Tekan.
 
 // MitaKind quest 2
-I need to stay.
-There are questions I need to ask her
-to find out more about her.
-Though, it's unlikely she'll play ball...
+Aku harus tinggal.
+Ada beberapa pertanyaan yang perlu kutanyakan padanya
+untuk mengetahui lebih banyak tentangnya.
+Meskipun, sepertinya itu tidak akan mudah...
 
 // MitaKind quest 3
-Tell you the truth, this is my version.
-I was keeping a player company,
-when something suddenly changed.
-Then she showed up...
-and turned the player into a cartridge
-and locked me up.
+Jujur saja, ini versi gameku.
+Aku sedang menemani seorang pemain,
+tiba-tiba sesuatu berubah.
+Lalu dia muncul...
+dan mengubah pemain itu menjadi sebuah katrid
+dan mengurungku.
 
-Wait, she turned him into a cartridge?
-Can she even do that?
-But why?
-What does she need the players for?
+Tunggu, dia mengubahnya menjadi katrid?
+Apa dia bisa melakukan itu?
+Tapi kenapa?
+Untuk apa dia melakukannya?
 
-She's obviously crazy...
-She's just playing with us, and using us for her own machinations!
-Turning players into cartridges...
-Some didn't even realize what was happening to them...
-And some that do, don't even fight back... Gah!
-Now that's a dark twist...
-You have to help us!
-Me? But how?
-I need you!
-If you help us, I'll help you!
-This might be our only chance.
-The ring will lead you to the right version.
-I'll meet you there.
+Dia jelas gila...
+Dia hanya mempermainkan kita, dan menggunakan kita untuk rencana jahatnya sendiri!
+Mengubah pemain menjadi katrid...
+Beberapa bahkan tidak menyadari apa yang terjadi pada mereka...
+Dan beberapa yang menyadari, bahkan tidak melawan... Gah!
+Itulah akhir yang kelam...
+Kau harus membantu kami!
+Aku? Tapi bagaimana?
+Aku mmebutuhkanmu!
+Jika kamu membantu kami, aku akan membantumu!
+Ini mungkin satu-satunya kesempatan kita.
+Cincin itu akan menuntunmu ke versi yang tepat.
+Aku akan menemuimu di sana.
 
 // MitaKind quest 4
-I still don't quite understand
-what I saw up there...
-That Mita...
-Was she trying to kill me?
+Aku masih belum begitu mengerti
+apa yang kulihat di sana...
+Mita itu...
+Apa dia mencoba membunuhku?
 
-Kill?
-She has a worse fate than that in mind for you...
-You need to hurry.
+Membunuh?
+Dia punya rencana lebih buruk untukmu...
+Kamu harus cepat.
 
 // Hide!
-Oh, shit! Hide!
-Wait, what...?
-Hurry, she's coming!
-Following the ring—it'll lead you to safety!
+Oh, sial! Sembunyi!
+Tunggu, apa...?
+Cepat, dia datang!
+Ikuti cincin itu—cincin itu akan membawamu ke tempat yang aman!
 
 
-Well, well, gonna tell me where he's at?
+Oke, oke, bisa beritahu aku di mana dia berada?
 
-Why would I?
-You won't kill him, will you?
+Kenapa aku harus melakukannya?
+Kau akan membunuhnya, kan?
 
-Ah, so you refuse to tell me.
-Hah, I like a challenge.
-I know he's somewhere around here.
+Ah, jadi kamu menolak untuk memberitahuku.
+Hah, aku suka tantangan.
+Aku tahu dia ada di sekitar sini.
 
-Why are you so mean to us?
-You won't even tell me what's going on!
-Besides...
-what do you need the players for?
-They're no toys!
-What's gotten into you?!
+Kenapa kau begitu jahat pada kami?
+Kau bahkan tidak mau memberitahuku apa yang sedang terjadi!
+Lagipula...
+Untuk apa kau membutuhkan pemain?
+Mereka bukan mainan!
+Apa yang merasukimu?!
 
-Enough! Keep your mouth shut, doll!
+Cukup! Tutup mulutmu, boneka!
